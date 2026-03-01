@@ -1,0 +1,1308 @@
+2026-02-03 00:08:57,888 - 151 - WARNING - The chromedriver version (143.0.7499.169) detected in PATH at C:\Users\kunal\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.110); currently, chromedriver 144.0.7559.109 is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-03 00:08:58,585 - 39 - INFO - Testcase test_verify_Credkart_url_001 is started
+2026-02-03 00:08:59,954 - 41 - INFO - Login Successful
+2026-02-03 00:08:59,954 - 42 - INFO - Verifying CredKart URL
+2026-02-03 00:08:59,964 - 46 - INFO - URL login Successful
+2026-02-03 00:09:00,204 - 48 - INFO - Testcase Passed
+2026-02-05 17:13:08,326 - 151 - WARNING - Exception managing chrome: error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)
+2026-02-05 17:13:08,326 - 151 - WARNING - The chromedriver version (143.0.7499.169) detected in PATH at C:\Users\kunal\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.110); currently, chromedriver  is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-05 17:13:08,329 - 151 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2026-02-05 17:13:09,139 - 39 - INFO - Testcase test_verify_Credkart_url_001 is started
+2026-02-05 18:21:56,512 - 151 - WARNING - The chromedriver version (143.0.7499.169) detected in PATH at C:\Users\kunal\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.110); currently, chromedriver 144.0.7559.133 is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-05 18:21:57,299 - 39 - INFO - Testcase test_verify_Credkart_url_001 is started
+2026-02-05 18:21:58,555 - 41 - INFO - Login Successful
+2026-02-05 18:21:58,555 - 42 - INFO - Verifying CredKart URL
+2026-02-05 18:21:58,569 - 46 - INFO - URL login Successful
+2026-02-05 18:21:58,909 - 48 - INFO - Testcase Passed
+2026-02-05 18:28:22,434 - 138 - WARNING - The chromedriver version (143.0.7499.169) detected in PATH at C:\Users\kunal\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.110); currently, chromedriver 144.0.7559.133 is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
+2026-02-05 18:28:23,758 - 39 - INFO - Testcase test_verify_Credkart_url_001 is started
+2026-02-05 18:28:24,658 - 41 - INFO - Login Successful
+2026-02-05 18:28:24,658 - 42 - INFO - Verifying CredKart URL
+2026-02-05 18:28:24,681 - 46 - INFO - URL login Successful
+2026-02-05 18:28:25,004 - 48 - INFO - Testcase Passed
+2026-02-23 15:56:13,805 - 151 - WARNING - The chromedriver version (143.0.7499.169) detected in PATH at C:\Users\kunal\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (145.0.7632.77); currently, chromedriver 145.0.7632.77 is recommended for chrome 145.*, so it is advised to delete the driver in PATH and retry
+2026-02-23 16:05:30,503 - 39 - INFO - Testcase test_verify_Credkart_url_001 is started
+2026-02-23 16:05:31,426 - 41 - INFO - Login Successful
+2026-02-23 16:05:31,427 - 42 - INFO - Verifying CredKart URL
+2026-02-23 16:05:31,706 - 46 - INFO - URL login Successful
+2026-02-23 16:05:32,167 - 48 - INFO - Testcase Passed
+2026-02-23 18:06:57,890 - 151 - WARNING - There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+2026-02-23 18:06:57,892 - 151 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2026-02-23 18:06:59,072 - 39 - INFO - Testcase test_verify_Credkart_url_001 is started
+2026-02-23 18:08:26,678 - 39 - INFO - Testcase test_verify_Credkart_url_001 is started
+2026-02-23 18:08:28,106 - 41 - INFO - Login Successful
+2026-02-23 18:08:28,106 - 42 - INFO - Verifying CredKart URL
+2026-02-23 18:08:28,123 - 46 - INFO - URL login Successful
+2026-02-23 18:08:28,470 - 48 - INFO - Testcase Passed
+2026-02-23 18:11:32,572 - 39 - INFO - Testcase test_verify_Credkart_url_001 is started
+2026-02-23 18:11:33,297 - 41 - INFO - Login Successful
+2026-02-23 18:11:33,297 - 42 - INFO - Verifying CredKart URL
+2026-02-23 18:11:33,315 - 46 - INFO - URL login Successful
+2026-02-23 18:11:33,646 - 48 - INFO - Testcase Passed
+2026-02-23 18:12:58,382 - 39 - INFO - Testcase test_verify_Credkart_url_001 is started
+2026-02-23 18:12:59,079 - 41 - INFO - Login Successful
+2026-02-23 18:12:59,079 - 42 - INFO - Verifying CredKart URL
+2026-02-23 18:12:59,094 - 46 - INFO - URL login Successful
+2026-02-23 18:12:59,521 - 48 - INFO - Testcase Passed
+2026-02-23 18:13:23,713 - 39 - INFO - Testcase test_verify_Credkart_url_001 is started
+2026-02-23 18:13:24,527 - 41 - INFO - Login Successful
+2026-02-23 18:13:24,527 - 42 - INFO - Verifying CredKart URL
+2026-02-23 18:13:24,544 - 46 - INFO - URL login Successful
+2026-02-23 18:13:24,850 - 48 - INFO - Testcase Passed
+2026-02-23 18:19:04,641 - 39 - INFO - Testcase test_verify_Credkart_url_001 is started
+2026-02-23 18:19:05,736 - 41 - INFO - Login Successful
+2026-02-23 18:19:05,736 - 42 - INFO - Verifying CredKart URL
+2026-02-23 18:19:05,755 - 46 - INFO - URL login Successful
+2026-02-23 18:19:06,058 - 48 - INFO - Testcase Passed
+2026-02-23 18:31:39,810 - 39 - INFO - Testcase test_verify_Credkart_url_001 is started
+2026-02-23 18:31:44,766 - 41 - INFO - Login Successful
+2026-02-23 18:31:44,766 - 42 - INFO - Verifying CredKart URL
+2026-02-23 18:31:44,785 - 46 - INFO - URL login Successful
+2026-02-23 18:31:45,247 - 48 - INFO - Testcase Passed
+2026-02-24 17:44:28,950 - 39 - INFO - Testcase test_verify_Credkart_url_001 is started
+2026-02-24 17:44:29,897 - 41 - INFO - Login Successful
+2026-02-24 17:44:29,897 - 42 - INFO - Verifying CredKart URL
+2026-02-24 17:44:29,920 - 46 - INFO - URL login Successful
+2026-02-24 17:44:30,278 - 48 - INFO - Testcase Passed
+2026-02-24 17:48:03,975 - 39 - INFO - Testcase test_verify_Credkart_url_001 is started
+2026-02-24 17:48:05,169 - 41 - INFO - Login Successful
+2026-02-24 17:48:05,169 - 42 - INFO - Verifying CredKart URL
+2026-02-24 17:48:05,194 - 46 - INFO - URL login Successful
+2026-02-24 17:48:05,522 - 48 - INFO - Testcase Passed
+2026-02-24 17:52:38,050 - 39 - INFO - Testcase test_verify_Credkart_url_001 is started
+2026-02-24 17:52:39,041 - 41 - INFO - Login Successful
+2026-02-24 17:52:39,041 - 42 - INFO - Verifying CredKart URL
+2026-02-24 17:52:39,068 - 46 - INFO - URL login Successful
+2026-02-24 17:52:39,423 - 48 - INFO - Testcase Passed
+2026-02-25 17:52:21,623 - 39 - INFO - Testcase test_verify_Credkart_url_001 is started
+2026-02-25 17:52:22,741 - 41 - INFO - Login Successful
+2026-02-25 17:52:22,741 - 42 - INFO - Verifying CredKart URL
+2026-02-25 17:52:22,780 - 46 - INFO - URL login Successful
+2026-02-25 17:52:23,163 - 48 - INFO - Testcase Passed
+2026-02-25 17:54:51,713 - 39 - INFO - Testcase test_verify_Credkart_url_001 is started
+2026-02-25 17:54:52,946 - 41 - INFO - Login Successful
+2026-02-25 17:54:52,947 - 42 - INFO - Verifying CredKart URL
+2026-02-25 17:54:52,983 - 46 - INFO - URL login Successful
+2026-02-25 17:54:53,832 - 48 - INFO - Testcase Passed
+2026-02-25 17:58:02,215 - 39 - INFO - Testcase test_verify_Credkart_url_001 is started
+2026-02-25 17:58:04,113 - 41 - INFO - Login Successful
+2026-02-25 17:58:04,113 - 42 - INFO - Verifying CredKart URL
+2026-02-25 17:58:04,134 - 46 - INFO - URL login Successful
+2026-02-25 17:58:04,475 - 48 - INFO - Testcase Passed
+2026-02-25 18:09:43,399 - 39 - INFO - Testcase test_verify_Credkart_url_001 is started
+2026-02-25 18:09:44,844 - 41 - INFO - Login Successful
+2026-02-25 18:09:44,844 - 42 - INFO - Verifying CredKart URL
+2026-02-25 18:09:44,861 - 46 - INFO - URL login Successful
+2026-02-25 18:09:45,233 - 48 - INFO - Testcase Passed
+2026-02-25 18:12:53,882 - 39 - INFO - Testcase test_verify_Credkart_url_001 is started
+2026-02-25 18:12:55,582 - 41 - INFO - Login Successful
+2026-02-25 18:12:55,584 - 42 - INFO - Verifying CredKart URL
+2026-02-25 18:12:55,608 - 46 - INFO - URL login Successful
+2026-02-25 18:12:56,047 - 48 - INFO - Testcase Passed
+2026-02-26 15:47:42,857 - 39 - INFO - Testcase test_verify_Credkart_url_001 is started
+2026-02-26 15:47:43,874 - 41 - INFO - Login Successful
+2026-02-26 15:47:43,875 - 42 - INFO - Verifying CredKart URL
+2026-02-26 15:47:43,890 - 46 - INFO - URL login Successful
+2026-02-26 15:47:44,207 - 48 - INFO - Testcase Passed
+2026-02-26 17:55:12,340 - 39 - INFO - Testcase test_verify_Credkart_url_001 is started
+2026-02-26 17:55:13,523 - 41 - INFO - Login Successful
+2026-02-26 17:55:13,524 - 42 - INFO - Verifying CredKart URL
+2026-02-26 17:55:13,553 - 46 - INFO - URL login Successful
+2026-02-26 17:55:13,985 - 48 - INFO - Testcase Passed
+2026-02-26 22:40:37,785 - 39 - INFO - Testcase test_verify_Credkart_url_001 is started
+2026-02-26 22:40:42,525 - 41 - INFO - Login Successful
+2026-02-26 22:40:42,526 - 42 - INFO - Verifying CredKart URL
+2026-02-26 22:40:42,544 - 46 - INFO - URL login Successful
+2026-02-26 22:40:42,841 - 48 - INFO - Testcase Passed
+2026-02-26 22:42:17,437 - 39 - INFO - Testcase test_verify_Credkart_url_001 is started
+2026-02-26 22:42:20,838 - 41 - INFO - Login Successful
+2026-02-26 22:42:20,838 - 42 - INFO - Verifying CredKart URL
+2026-02-26 22:42:20,856 - 46 - INFO - URL login Successful
+2026-02-26 22:42:21,145 - 48 - INFO - Testcase Passed
+2026-02-26 22:55:46,584 - 39 - INFO - Testcase test_verify_Credkart_url_001 is started
+2026-02-26 22:55:47,165 - 41 - INFO - Login Successful
+2026-02-26 22:55:47,168 - 42 - INFO - Verifying CredKart URL
+2026-02-26 22:55:48,156 - 46 - INFO - URL login Successful
+2026-02-26 22:55:48,859 - 48 - INFO - Testcase Passed
+2026-02-27 15:03:18,472 - INFO - test_Credkart_registration_003 - 129 - Testcase test_Credkart_login_002 is started
+2026-02-27 15:03:20,755 - INFO - test_Credkart_registration_003 - 131 - Opening browser and getting https://automation.credence.in/register
+2026-02-27 15:03:20,789 - INFO - test_Credkart_registration_003 - 134 - Generated fake data for username--> john99 and email --> riceann@example.org
+2026-02-27 15:03:20,790 - INFO - test_Credkart_registration_003 - 138 - Entering the Username--> john99
+2026-02-27 15:03:20,981 - INFO - test_Credkart_login_002 - 66 - Testcase test_Credkart_login_002 is started
+2026-02-27 15:03:20,998 - INFO - test_Credkart_registration_003 - 141 - Entering the Email--> riceann@example.org
+2026-02-27 15:03:21,125 - INFO - test_Credkart_registration_003 - 144 - Entering the Password
+2026-02-27 15:03:21,222 - INFO - test_Credkart_registration_003 - 147 - Entering the Confirm Password
+2026-02-27 15:03:21,319 - INFO - test_Credkart_registration_003 - 150 - Clicking on register button
+2026-02-27 15:03:21,655 - INFO - test_Credkart_login_002 - 68 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 15:03:21,655 - INFO - test_Credkart_login_002 - 77 - Entering the Email Credencetest@test.com
+2026-02-27 15:03:21,920 - INFO - test_Credkart_login_002 - 84 - Entering the password
+2026-02-27 15:03:22,072 - INFO - test_Credkart_login_002 - 90 - Clicking on login button
+2026-02-27 15:03:22,362 - INFO - test_verify_Credkart_url_001 - 46 - Testcase test_verify_Credkart_url_001 is started
+2026-02-27 15:03:22,674 - INFO - test_Credkart_registration_003 - 154 - User registration successful and taking screenshot
+2026-02-27 15:03:22,965 - INFO - test_Credkart_registration_003 - 156 - Clicking on menu button
+2026-02-27 15:03:23,059 - INFO - test_verify_Credkart_url_001 - 48 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 15:03:23,060 - INFO - test_verify_Credkart_url_001 - 49 - Checking driver title
+2026-02-27 15:03:23,087 - INFO - test_verify_Credkart_url_001 - 51 - Testcase test_verify_Credkart_url_001 is passed
+2026-02-27 15:03:23,088 - INFO - test_verify_Credkart_url_001 - 52 - Taking screenshot
+2026-02-27 15:03:23,098 - INFO - test_Credkart_registration_003 - 158 - Clicking on logout button
+2026-02-27 15:03:23,703 - INFO - test_verify_Credkart_url_001 - 59 - Testcase test_verify_Credkart_url_001 is completed
+2026-02-27 15:03:23,865 - INFO - test_Credkart_login_002 - 110 - Checking the login status
+2026-02-27 15:03:23,914 - INFO - test_Credkart_login_002 - 112 - User login successful and taking screenshot
+2026-02-27 15:03:24,111 - INFO - test_Credkart_login_002 - 114 - Clicking on menu button
+2026-02-27 15:03:24,162 - INFO - test_Credkart_registration_003 - 164 - Testcase test_Credkart_registration_003 is completed
+2026-02-27 15:03:24,209 - INFO - test_Credkart_login_002 - 116 - Clicking on logout button
+2026-02-27 15:03:25,373 - INFO - test_Credkart_login_002 - 122 - Testcase test_Credkart_login_002 is completed
+2026-02-27 15:05:46,146 - INFO - test_Credkart_registration_003 - 129 - Testcase test_Credkart_login_002 is started
+2026-02-27 15:05:46,619 - INFO - test_Credkart_login_002 - 66 - Testcase test_Credkart_login_002 is started
+2026-02-27 15:05:46,641 - INFO - test_verify_Credkart_url_001 - 46 - Testcase test_verify_Credkart_url_001 is started
+2026-02-27 15:05:47,628 - INFO - test_Credkart_registration_003 - 131 - Opening browser and getting https://automation.credence.in/register
+2026-02-27 15:05:47,657 - INFO - test_Credkart_registration_003 - 134 - Generated fake data for username--> lindahodges and email --> edward53@example.net
+2026-02-27 15:05:47,657 - INFO - test_Credkart_registration_003 - 138 - Entering the Username--> lindahodges
+2026-02-27 15:05:47,737 - INFO - test_Credkart_registration_003 - 141 - Entering the Email--> edward53@example.net
+2026-02-27 15:05:47,788 - INFO - test_Credkart_login_002 - 68 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 15:05:47,788 - INFO - test_Credkart_login_002 - 77 - Entering the Email Credencetest@test.com
+2026-02-27 15:05:47,830 - INFO - test_verify_Credkart_url_001 - 48 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 15:05:47,831 - INFO - test_verify_Credkart_url_001 - 49 - Checking driver title
+2026-02-27 15:05:47,850 - INFO - test_verify_Credkart_url_001 - 51 - Testcase test_verify_Credkart_url_001 is passed
+2026-02-27 15:05:47,851 - INFO - test_verify_Credkart_url_001 - 52 - Taking screenshot
+2026-02-27 15:05:47,966 - INFO - test_Credkart_registration_003 - 144 - Entering the Password
+2026-02-27 15:05:48,020 - INFO - test_Credkart_login_002 - 84 - Entering the password
+2026-02-27 15:05:48,135 - INFO - test_Credkart_registration_003 - 147 - Entering the Confirm Password
+2026-02-27 15:05:48,194 - INFO - test_Credkart_login_002 - 90 - Clicking on login button
+2026-02-27 15:05:48,295 - INFO - test_Credkart_registration_003 - 150 - Clicking on register button
+2026-02-27 15:05:48,358 - INFO - test_Credkart_login_002 - 110 - Checking the login status
+2026-02-27 15:05:48,486 - INFO - test_verify_Credkart_url_001 - 59 - Testcase test_verify_Credkart_url_001 is completed
+2026-02-27 15:05:49,519 - INFO - test_Credkart_registration_003 - 154 - User registration successful and taking screenshot
+2026-02-27 15:05:49,525 - INFO - test_Credkart_login_002 - 112 - User login successful and taking screenshot
+2026-02-27 15:05:49,703 - INFO - test_Credkart_registration_003 - 156 - Clicking on menu button
+2026-02-27 15:05:49,755 - INFO - test_Credkart_login_002 - 114 - Clicking on menu button
+2026-02-27 15:05:49,773 - INFO - test_Credkart_registration_003 - 158 - Clicking on logout button
+2026-02-27 15:05:49,842 - INFO - test_Credkart_login_002 - 116 - Clicking on logout button
+2026-02-27 15:05:49,855 - INFO - test_Credkart_registration_003 - 164 - Testcase test_Credkart_registration_003 is completed
+2026-02-27 15:05:50,403 - INFO - test_Credkart_login_002 - 122 - Testcase test_Credkart_login_002 is completed
+2026-02-27 15:17:53,396 - INFO - test_Credkart_login_excel_ddt_004 - 32 - Testcase test_Credkart_login_excel_ddt_004 is started
+2026-02-27 15:17:53,396 - INFO - test_Credkart_login_excel_ddt_004 - 32 - Testcase test_Credkart_login_excel_ddt_004 is started
+2026-02-27 15:17:53,398 - INFO - test_Credkart_login_excel_ddt_004 - 34 - Reading data from excel
+2026-02-27 15:17:53,398 - INFO - test_Credkart_login_excel_ddt_004 - 34 - Reading data from excel
+2026-02-27 15:17:53,406 - INFO - test_Credkart_registration_003 - 129 - Testcase test_Credkart_login_002 is started
+2026-02-27 15:17:53,406 - INFO - test_Credkart_registration_003 - 129 - Testcase test_Credkart_login_002 is started
+2026-02-27 15:17:53,436 - INFO - test_Credkart_login_excel_ddt_004 - 36 - Number of rows in excel is 5
+2026-02-27 15:17:53,436 - INFO - test_Credkart_login_excel_ddt_004 - 36 - Number of rows in excel is 5
+2026-02-27 15:17:53,491 - INFO - test_Credkart_login_002 - 66 - Testcase test_Credkart_login_002 is started
+2026-02-27 15:17:53,491 - INFO - test_Credkart_login_002 - 66 - Testcase test_Credkart_login_002 is started
+2026-02-27 15:17:53,518 - INFO - test_verify_Credkart_url_001 - 46 - Testcase test_verify_Credkart_url_001 is started
+2026-02-27 15:17:53,518 - INFO - test_verify_Credkart_url_001 - 46 - Testcase test_verify_Credkart_url_001 is started
+2026-02-27 15:17:54,295 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 15:17:54,295 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 15:17:54,312 - INFO - test_Credkart_login_002 - 68 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 15:17:54,312 - INFO - test_Credkart_login_002 - 68 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 15:17:54,313 - INFO - test_Credkart_login_002 - 77 - Entering the Email Credencetest@test.com
+2026-02-27 15:17:54,313 - INFO - test_Credkart_login_002 - 77 - Entering the Email Credencetest@test.com
+2026-02-27 15:17:54,314 - INFO - test_verify_Credkart_url_001 - 48 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 15:17:54,314 - INFO - test_verify_Credkart_url_001 - 48 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 15:17:54,315 - INFO - test_verify_Credkart_url_001 - 49 - Checking driver title
+2026-02-27 15:17:54,315 - INFO - test_verify_Credkart_url_001 - 49 - Checking driver title
+2026-02-27 15:17:54,345 - INFO - test_verify_Credkart_url_001 - 51 - Testcase test_verify_Credkart_url_001 is passed
+2026-02-27 15:17:54,345 - INFO - test_verify_Credkart_url_001 - 51 - Testcase test_verify_Credkart_url_001 is passed
+2026-02-27 15:17:54,345 - INFO - test_verify_Credkart_url_001 - 52 - Taking screenshot
+2026-02-27 15:17:54,345 - INFO - test_verify_Credkart_url_001 - 52 - Taking screenshot
+2026-02-27 15:17:54,369 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 15:17:54,369 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 15:17:54,606 - INFO - test_Credkart_registration_003 - 131 - Opening browser and getting https://automation.credence.in/register
+2026-02-27 15:17:54,606 - INFO - test_Credkart_registration_003 - 131 - Opening browser and getting https://automation.credence.in/register
+2026-02-27 15:17:54,627 - INFO - test_Credkart_registration_003 - 134 - Generated fake data for username--> rhodeskimberly and email --> hansonhoward@example.net
+2026-02-27 15:17:54,627 - INFO - test_Credkart_registration_003 - 134 - Generated fake data for username--> rhodeskimberly and email --> hansonhoward@example.net
+2026-02-27 15:17:54,628 - INFO - test_Credkart_registration_003 - 138 - Entering the Username--> rhodeskimberly
+2026-02-27 15:17:54,628 - INFO - test_Credkart_registration_003 - 138 - Entering the Username--> rhodeskimberly
+2026-02-27 15:17:54,642 - INFO - test_Credkart_login_002 - 84 - Entering the password
+2026-02-27 15:17:54,642 - INFO - test_Credkart_login_002 - 84 - Entering the password
+2026-02-27 15:17:54,857 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 15:17:54,857 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 15:17:54,929 - INFO - test_Credkart_registration_003 - 141 - Entering the Email--> hansonhoward@example.net
+2026-02-27 15:17:54,929 - INFO - test_Credkart_registration_003 - 141 - Entering the Email--> hansonhoward@example.net
+2026-02-27 15:17:54,945 - INFO - test_Credkart_login_002 - 90 - Clicking on login button
+2026-02-27 15:17:54,945 - INFO - test_Credkart_login_002 - 90 - Clicking on login button
+2026-02-27 15:17:55,063 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 15:17:55,063 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 15:17:55,140 - INFO - test_Credkart_registration_003 - 144 - Entering the Password
+2026-02-27 15:17:55,140 - INFO - test_Credkart_registration_003 - 144 - Entering the Password
+2026-02-27 15:17:55,267 - INFO - test_verify_Credkart_url_001 - 59 - Testcase test_verify_Credkart_url_001 is completed
+2026-02-27 15:17:55,267 - INFO - test_verify_Credkart_url_001 - 59 - Testcase test_verify_Credkart_url_001 is completed
+2026-02-27 15:17:55,421 - INFO - test_Credkart_registration_003 - 147 - Entering the Confirm Password
+2026-02-27 15:17:55,421 - INFO - test_Credkart_registration_003 - 147 - Entering the Confirm Password
+2026-02-27 15:17:55,578 - INFO - test_Credkart_registration_003 - 150 - Clicking on register button
+2026-02-27 15:17:55,578 - INFO - test_Credkart_registration_003 - 150 - Clicking on register button
+2026-02-27 15:17:56,130 - INFO - test_Credkart_login_002 - 110 - Checking the login status
+2026-02-27 15:17:56,130 - INFO - test_Credkart_login_002 - 110 - Checking the login status
+2026-02-27 15:17:56,170 - INFO - test_Credkart_login_002 - 112 - User login successful and taking screenshot
+2026-02-27 15:17:56,170 - INFO - test_Credkart_login_002 - 112 - User login successful and taking screenshot
+2026-02-27 15:17:56,276 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 15:17:56,276 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 15:17:56,309 - INFO - test_Credkart_login_excel_ddt_004 - 54 - User login successful and taking screenshot
+2026-02-27 15:17:56,309 - INFO - test_Credkart_login_excel_ddt_004 - 54 - User login successful and taking screenshot
+2026-02-27 15:17:56,379 - INFO - test_Credkart_login_002 - 114 - Clicking on menu button
+2026-02-27 15:17:56,379 - INFO - test_Credkart_login_002 - 114 - Clicking on menu button
+2026-02-27 15:17:56,456 - INFO - test_Credkart_login_002 - 116 - Clicking on logout button
+2026-02-27 15:17:56,456 - INFO - test_Credkart_login_002 - 116 - Clicking on logout button
+2026-02-27 15:17:56,514 - INFO - test_Credkart_login_excel_ddt_004 - 56 - Clicking on menu button
+2026-02-27 15:17:56,514 - INFO - test_Credkart_login_excel_ddt_004 - 56 - Clicking on menu button
+2026-02-27 15:17:56,632 - INFO - test_Credkart_login_excel_ddt_004 - 58 - Clicking on logout button
+2026-02-27 15:17:56,632 - INFO - test_Credkart_login_excel_ddt_004 - 58 - Clicking on logout button
+2026-02-27 15:17:56,924 - INFO - test_Credkart_registration_003 - 154 - User registration successful and taking screenshot
+2026-02-27 15:17:56,924 - INFO - test_Credkart_registration_003 - 154 - User registration successful and taking screenshot
+2026-02-27 15:17:57,033 - INFO - test_Credkart_login_002 - 122 - Testcase test_Credkart_login_002 is completed
+2026-02-27 15:17:57,033 - INFO - test_Credkart_login_002 - 122 - Testcase test_Credkart_login_002 is completed
+2026-02-27 15:17:57,190 - INFO - test_Credkart_registration_003 - 156 - Clicking on menu button
+2026-02-27 15:17:57,190 - INFO - test_Credkart_registration_003 - 156 - Clicking on menu button
+2026-02-27 15:17:57,276 - INFO - test_Credkart_registration_003 - 158 - Clicking on logout button
+2026-02-27 15:17:57,276 - INFO - test_Credkart_registration_003 - 158 - Clicking on logout button
+2026-02-27 15:17:57,584 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 15:17:57,584 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 15:17:57,657 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-02-27 15:17:57,657 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-02-27 15:17:57,803 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 15:17:57,803 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 15:17:57,835 - INFO - test_Credkart_registration_003 - 164 - Testcase test_Credkart_registration_003 is completed
+2026-02-27 15:17:57,835 - INFO - test_Credkart_registration_003 - 164 - Testcase test_Credkart_registration_003 is completed
+2026-02-27 15:17:57,962 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 15:17:57,962 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 15:17:58,448 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 15:17:58,448 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 15:18:03,503 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 15:18:03,503 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 15:18:03,834 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 15:18:03,834 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 15:18:03,861 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 15:18:03,861 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 15:18:03,952 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 15:18:03,952 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 15:18:04,027 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 15:18:04,027 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 15:18:04,489 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 15:18:04,489 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 15:18:09,548 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 15:18:09,548 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 15:18:09,981 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 15:18:09,981 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 15:18:10,001 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-02-27 15:18:10,001 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-02-27 15:18:10,082 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 15:18:10,082 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 15:18:10,157 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 15:18:10,157 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 15:18:10,763 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 15:18:10,763 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 15:18:15,822 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 15:18:15,822 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 15:18:15,946 - INFO - test_Credkart_login_excel_ddt_004 - 78 - All the testcases are passed
+2026-02-27 15:18:15,946 - INFO - test_Credkart_login_excel_ddt_004 - 78 - All the testcases are passed
+2026-02-27 15:18:15,946 - INFO - test_Credkart_login_excel_ddt_004 - 83 - Testcase test_Credkart_login_excel_ddt_004 is completed
+2026-02-27 15:18:15,946 - INFO - test_Credkart_login_excel_ddt_004 - 83 - Testcase test_Credkart_login_excel_ddt_004 is completed
+2026-02-27 17:02:24,865 - INFO - test_verify_Credkart_url_001 - 46 - Testcase test_verify_Credkart_url_001 is started
+2026-02-27 17:02:24,865 - INFO - test_verify_Credkart_url_001 - 46 - Testcase test_verify_Credkart_url_001 is started
+2026-02-27 17:02:25,971 - INFO - test_verify_Credkart_url_001 - 48 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 17:02:25,971 - INFO - test_verify_Credkart_url_001 - 48 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 17:02:25,972 - INFO - test_verify_Credkart_url_001 - 49 - Checking driver title
+2026-02-27 17:02:25,972 - INFO - test_verify_Credkart_url_001 - 49 - Checking driver title
+2026-02-27 17:02:25,989 - INFO - test_verify_Credkart_url_001 - 51 - Testcase test_verify_Credkart_url_001 is passed
+2026-02-27 17:02:25,989 - INFO - test_verify_Credkart_url_001 - 51 - Testcase test_verify_Credkart_url_001 is passed
+2026-02-27 17:02:25,990 - INFO - test_verify_Credkart_url_001 - 52 - Taking screenshot
+2026-02-27 17:02:25,990 - INFO - test_verify_Credkart_url_001 - 52 - Taking screenshot
+2026-02-27 17:02:26,405 - INFO - test_verify_Credkart_url_001 - 59 - Testcase test_verify_Credkart_url_001 is completed
+2026-02-27 17:02:26,405 - INFO - test_verify_Credkart_url_001 - 59 - Testcase test_verify_Credkart_url_001 is completed
+2026-02-27 17:02:26,407 - INFO - test_Credkart_login_002 - 66 - Testcase test_Credkart_login_002 is started
+2026-02-27 17:02:26,407 - INFO - test_Credkart_login_002 - 66 - Testcase test_Credkart_login_002 is started
+2026-02-27 17:02:26,582 - INFO - test_Credkart_login_002 - 68 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 17:02:26,582 - INFO - test_Credkart_login_002 - 68 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 17:02:26,583 - INFO - test_Credkart_login_002 - 77 - Entering the Email Credencetest@test.com
+2026-02-27 17:02:26,583 - INFO - test_Credkart_login_002 - 77 - Entering the Email Credencetest@test.com
+2026-02-27 17:02:26,736 - INFO - test_Credkart_login_002 - 84 - Entering the password
+2026-02-27 17:02:26,736 - INFO - test_Credkart_login_002 - 84 - Entering the password
+2026-02-27 17:02:26,848 - INFO - test_Credkart_login_002 - 90 - Clicking on login button
+2026-02-27 17:02:26,848 - INFO - test_Credkart_login_002 - 90 - Clicking on login button
+2026-02-27 17:02:26,943 - INFO - test_Credkart_login_002 - 110 - Checking the login status
+2026-02-27 17:02:26,943 - INFO - test_Credkart_login_002 - 110 - Checking the login status
+2026-02-27 17:02:28,059 - INFO - test_Credkart_login_002 - 112 - User login successful and taking screenshot
+2026-02-27 17:02:28,059 - INFO - test_Credkart_login_002 - 112 - User login successful and taking screenshot
+2026-02-27 17:02:28,219 - INFO - test_Credkart_login_002 - 114 - Clicking on menu button
+2026-02-27 17:02:28,219 - INFO - test_Credkart_login_002 - 114 - Clicking on menu button
+2026-02-27 17:02:28,280 - INFO - test_Credkart_login_002 - 116 - Clicking on logout button
+2026-02-27 17:02:28,280 - INFO - test_Credkart_login_002 - 116 - Clicking on logout button
+2026-02-27 17:02:28,788 - INFO - test_Credkart_login_002 - 122 - Testcase test_Credkart_login_002 is completed
+2026-02-27 17:02:28,788 - INFO - test_Credkart_login_002 - 122 - Testcase test_Credkart_login_002 is completed
+2026-02-27 17:02:28,792 - INFO - test_Credkart_registration_003 - 129 - Testcase test_Credkart_login_002 is started
+2026-02-27 17:02:28,792 - INFO - test_Credkart_registration_003 - 129 - Testcase test_Credkart_login_002 is started
+2026-02-27 17:02:28,989 - INFO - test_Credkart_registration_003 - 131 - Opening browser and getting https://automation.credence.in/register
+2026-02-27 17:02:28,989 - INFO - test_Credkart_registration_003 - 131 - Opening browser and getting https://automation.credence.in/register
+2026-02-27 17:02:28,999 - INFO - test_Credkart_registration_003 - 134 - Generated fake data for username--> qjackson and email --> kparrish@example.net
+2026-02-27 17:02:28,999 - INFO - test_Credkart_registration_003 - 134 - Generated fake data for username--> qjackson and email --> kparrish@example.net
+2026-02-27 17:02:29,000 - INFO - test_Credkart_registration_003 - 138 - Entering the Username--> qjackson
+2026-02-27 17:02:29,000 - INFO - test_Credkart_registration_003 - 138 - Entering the Username--> qjackson
+2026-02-27 17:02:29,085 - INFO - test_Credkart_registration_003 - 141 - Entering the Email--> kparrish@example.net
+2026-02-27 17:02:29,085 - INFO - test_Credkart_registration_003 - 141 - Entering the Email--> kparrish@example.net
+2026-02-27 17:02:29,225 - INFO - test_Credkart_registration_003 - 144 - Entering the Password
+2026-02-27 17:02:29,225 - INFO - test_Credkart_registration_003 - 144 - Entering the Password
+2026-02-27 17:02:29,325 - INFO - test_Credkart_registration_003 - 147 - Entering the Confirm Password
+2026-02-27 17:02:29,325 - INFO - test_Credkart_registration_003 - 147 - Entering the Confirm Password
+2026-02-27 17:02:29,394 - INFO - test_Credkart_registration_003 - 150 - Clicking on register button
+2026-02-27 17:02:29,394 - INFO - test_Credkart_registration_003 - 150 - Clicking on register button
+2026-02-27 17:02:30,185 - INFO - test_Credkart_registration_003 - 154 - User registration successful and taking screenshot
+2026-02-27 17:02:30,185 - INFO - test_Credkart_registration_003 - 154 - User registration successful and taking screenshot
+2026-02-27 17:02:30,389 - INFO - test_Credkart_registration_003 - 156 - Clicking on menu button
+2026-02-27 17:02:30,389 - INFO - test_Credkart_registration_003 - 156 - Clicking on menu button
+2026-02-27 17:02:30,446 - INFO - test_Credkart_registration_003 - 158 - Clicking on logout button
+2026-02-27 17:02:30,446 - INFO - test_Credkart_registration_003 - 158 - Clicking on logout button
+2026-02-27 17:02:31,018 - INFO - test_Credkart_registration_003 - 164 - Testcase test_Credkart_registration_003 is completed
+2026-02-27 17:02:31,018 - INFO - test_Credkart_registration_003 - 164 - Testcase test_Credkart_registration_003 is completed
+2026-02-27 17:02:34,162 - INFO - test_Credkart_login_excel_ddt_004 - 32 - Testcase test_Credkart_login_excel_ddt_004 is started
+2026-02-27 17:02:34,162 - INFO - test_Credkart_login_excel_ddt_004 - 32 - Testcase test_Credkart_login_excel_ddt_004 is started
+2026-02-27 17:02:34,162 - INFO - test_Credkart_login_excel_ddt_004 - 34 - Reading data from excel
+2026-02-27 17:02:34,162 - INFO - test_Credkart_login_excel_ddt_004 - 34 - Reading data from excel
+2026-02-27 17:02:34,174 - INFO - test_Credkart_login_excel_ddt_004 - 36 - Number of rows in excel is 5
+2026-02-27 17:02:34,174 - INFO - test_Credkart_login_excel_ddt_004 - 36 - Number of rows in excel is 5
+2026-02-27 17:02:34,931 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 17:02:34,931 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 17:02:34,974 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 17:02:34,974 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 17:02:35,157 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 17:02:35,157 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 17:02:35,348 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 17:02:35,348 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 17:02:36,479 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 17:02:36,479 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 17:02:36,527 - INFO - test_Credkart_login_excel_ddt_004 - 54 - User login successful and taking screenshot
+2026-02-27 17:02:36,527 - INFO - test_Credkart_login_excel_ddt_004 - 54 - User login successful and taking screenshot
+2026-02-27 17:02:36,748 - INFO - test_Credkart_login_excel_ddt_004 - 56 - Clicking on menu button
+2026-02-27 17:02:36,748 - INFO - test_Credkart_login_excel_ddt_004 - 56 - Clicking on menu button
+2026-02-27 17:02:36,830 - INFO - test_Credkart_login_excel_ddt_004 - 58 - Clicking on logout button
+2026-02-27 17:02:36,830 - INFO - test_Credkart_login_excel_ddt_004 - 58 - Clicking on logout button
+2026-02-27 17:02:37,619 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 17:02:37,619 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 17:02:37,655 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-02-27 17:02:37,655 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-02-27 17:02:37,783 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 17:02:37,783 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 17:02:37,916 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 17:02:37,916 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 17:02:38,385 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 17:02:38,385 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 17:02:43,417 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 17:02:43,417 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 17:02:43,790 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 17:02:43,790 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 17:02:43,817 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 17:02:43,817 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 17:02:43,919 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 17:02:43,919 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 17:02:44,000 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 17:02:44,000 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 17:02:44,060 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 17:02:44,060 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 17:02:49,457 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 17:02:49,457 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 17:02:49,935 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 17:02:49,935 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 17:02:49,961 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-02-27 17:02:49,961 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-02-27 17:02:50,096 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 17:02:50,096 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 17:02:50,178 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 17:02:50,178 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 17:02:50,243 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 17:02:50,243 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 17:02:55,782 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 17:02:55,782 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 17:02:55,900 - INFO - test_Credkart_login_excel_ddt_004 - 78 - All the testcases are passed
+2026-02-27 17:02:55,900 - INFO - test_Credkart_login_excel_ddt_004 - 78 - All the testcases are passed
+2026-02-27 17:02:55,900 - INFO - test_Credkart_login_excel_ddt_004 - 83 - Testcase test_Credkart_login_excel_ddt_004 is completed
+2026-02-27 17:02:55,900 - INFO - test_Credkart_login_excel_ddt_004 - 83 - Testcase test_Credkart_login_excel_ddt_004 is completed
+2026-02-27 18:52:05,508 - INFO - test_verify_Credkart_url_001 - 46 - Testcase test_verify_Credkart_url_001 is started
+2026-02-27 18:52:05,508 - INFO - test_verify_Credkart_url_001 - 46 - Testcase test_verify_Credkart_url_001 is started
+2026-02-27 18:52:07,188 - INFO - test_verify_Credkart_url_001 - 48 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 18:52:07,188 - INFO - test_verify_Credkart_url_001 - 48 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 18:52:07,190 - INFO - test_verify_Credkart_url_001 - 49 - Checking driver title
+2026-02-27 18:52:07,190 - INFO - test_verify_Credkart_url_001 - 49 - Checking driver title
+2026-02-27 18:52:07,203 - INFO - test_verify_Credkart_url_001 - 51 - Testcase test_verify_Credkart_url_001 is passed
+2026-02-27 18:52:07,203 - INFO - test_verify_Credkart_url_001 - 51 - Testcase test_verify_Credkart_url_001 is passed
+2026-02-27 18:52:07,203 - INFO - test_verify_Credkart_url_001 - 52 - Taking screenshot
+2026-02-27 18:52:07,203 - INFO - test_verify_Credkart_url_001 - 52 - Taking screenshot
+2026-02-27 18:52:07,538 - INFO - test_verify_Credkart_url_001 - 59 - Testcase test_verify_Credkart_url_001 is completed
+2026-02-27 18:52:07,538 - INFO - test_verify_Credkart_url_001 - 59 - Testcase test_verify_Credkart_url_001 is completed
+2026-02-27 18:52:07,544 - INFO - test_Credkart_login_002 - 66 - Testcase test_Credkart_login_002 is started
+2026-02-27 18:52:07,544 - INFO - test_Credkart_login_002 - 66 - Testcase test_Credkart_login_002 is started
+2026-02-27 18:52:07,698 - INFO - test_Credkart_login_002 - 68 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 18:52:07,698 - INFO - test_Credkart_login_002 - 68 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 18:52:07,699 - INFO - test_Credkart_login_002 - 77 - Entering the Email Credencetest@test.com
+2026-02-27 18:52:07,699 - INFO - test_Credkart_login_002 - 77 - Entering the Email Credencetest@test.com
+2026-02-27 18:52:07,852 - INFO - test_Credkart_login_002 - 84 - Entering the password
+2026-02-27 18:52:07,852 - INFO - test_Credkart_login_002 - 84 - Entering the password
+2026-02-27 18:52:07,931 - INFO - test_Credkart_login_002 - 90 - Clicking on login button
+2026-02-27 18:52:07,931 - INFO - test_Credkart_login_002 - 90 - Clicking on login button
+2026-02-27 18:52:09,313 - INFO - test_Credkart_login_002 - 110 - Checking the login status
+2026-02-27 18:52:09,313 - INFO - test_Credkart_login_002 - 110 - Checking the login status
+2026-02-27 18:52:09,354 - INFO - test_Credkart_login_002 - 112 - User login successful and taking screenshot
+2026-02-27 18:52:09,354 - INFO - test_Credkart_login_002 - 112 - User login successful and taking screenshot
+2026-02-27 18:52:09,548 - INFO - test_Credkart_login_002 - 114 - Clicking on menu button
+2026-02-27 18:52:09,548 - INFO - test_Credkart_login_002 - 114 - Clicking on menu button
+2026-02-27 18:52:09,632 - INFO - test_Credkart_login_002 - 116 - Clicking on logout button
+2026-02-27 18:52:09,632 - INFO - test_Credkart_login_002 - 116 - Clicking on logout button
+2026-02-27 18:52:09,731 - INFO - test_Credkart_login_002 - 122 - Testcase test_Credkart_login_002 is completed
+2026-02-27 18:52:09,731 - INFO - test_Credkart_login_002 - 122 - Testcase test_Credkart_login_002 is completed
+2026-02-27 18:52:09,741 - INFO - test_Credkart_registration_003 - 129 - Testcase test_Credkart_login_002 is started
+2026-02-27 18:52:09,741 - INFO - test_Credkart_registration_003 - 129 - Testcase test_Credkart_login_002 is started
+2026-02-27 18:52:11,027 - INFO - test_Credkart_registration_003 - 131 - Opening browser and getting https://automation.credence.in/register
+2026-02-27 18:52:11,027 - INFO - test_Credkart_registration_003 - 131 - Opening browser and getting https://automation.credence.in/register
+2026-02-27 18:52:11,039 - INFO - test_Credkart_registration_003 - 134 - Generated fake data for username--> jesse52 and email --> stephenselizabeth@example.net
+2026-02-27 18:52:11,039 - INFO - test_Credkart_registration_003 - 134 - Generated fake data for username--> jesse52 and email --> stephenselizabeth@example.net
+2026-02-27 18:52:11,040 - INFO - test_Credkart_registration_003 - 138 - Entering the Username--> jesse52
+2026-02-27 18:52:11,040 - INFO - test_Credkart_registration_003 - 138 - Entering the Username--> jesse52
+2026-02-27 18:52:11,107 - INFO - test_Credkart_registration_003 - 141 - Entering the Email--> stephenselizabeth@example.net
+2026-02-27 18:52:11,107 - INFO - test_Credkart_registration_003 - 141 - Entering the Email--> stephenselizabeth@example.net
+2026-02-27 18:52:11,254 - INFO - test_Credkart_registration_003 - 144 - Entering the Password
+2026-02-27 18:52:11,254 - INFO - test_Credkart_registration_003 - 144 - Entering the Password
+2026-02-27 18:52:11,347 - INFO - test_Credkart_registration_003 - 147 - Entering the Confirm Password
+2026-02-27 18:52:11,347 - INFO - test_Credkart_registration_003 - 147 - Entering the Confirm Password
+2026-02-27 18:52:11,442 - INFO - test_Credkart_registration_003 - 150 - Clicking on register button
+2026-02-27 18:52:11,442 - INFO - test_Credkart_registration_003 - 150 - Clicking on register button
+2026-02-27 18:52:12,687 - INFO - test_Credkart_registration_003 - 154 - User registration successful and taking screenshot
+2026-02-27 18:52:12,687 - INFO - test_Credkart_registration_003 - 154 - User registration successful and taking screenshot
+2026-02-27 18:52:12,886 - INFO - test_Credkart_registration_003 - 156 - Clicking on menu button
+2026-02-27 18:52:12,886 - INFO - test_Credkart_registration_003 - 156 - Clicking on menu button
+2026-02-27 18:52:12,965 - INFO - test_Credkart_registration_003 - 158 - Clicking on logout button
+2026-02-27 18:52:12,965 - INFO - test_Credkart_registration_003 - 158 - Clicking on logout button
+2026-02-27 18:52:13,591 - INFO - test_Credkart_registration_003 - 164 - Testcase test_Credkart_registration_003 is completed
+2026-02-27 18:52:13,591 - INFO - test_Credkart_registration_003 - 164 - Testcase test_Credkart_registration_003 is completed
+2026-02-27 18:52:16,822 - INFO - test_Credkart_login_excel_ddt_004 - 32 - Testcase test_Credkart_login_excel_ddt_004 is started
+2026-02-27 18:52:16,822 - INFO - test_Credkart_login_excel_ddt_004 - 32 - Testcase test_Credkart_login_excel_ddt_004 is started
+2026-02-27 18:52:16,822 - INFO - test_Credkart_login_excel_ddt_004 - 34 - Reading data from excel
+2026-02-27 18:52:16,822 - INFO - test_Credkart_login_excel_ddt_004 - 34 - Reading data from excel
+2026-02-27 18:52:16,834 - INFO - test_Credkart_login_excel_ddt_004 - 36 - Number of rows in excel is 5
+2026-02-27 18:52:16,834 - INFO - test_Credkart_login_excel_ddt_004 - 36 - Number of rows in excel is 5
+2026-02-27 18:52:18,053 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 18:52:18,053 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 18:52:18,083 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 18:52:18,083 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 18:52:18,264 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 18:52:18,264 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 18:52:18,375 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 18:52:18,375 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 18:52:18,485 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 18:52:18,485 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 18:52:20,340 - INFO - test_Credkart_login_excel_ddt_004 - 54 - User login successful and taking screenshot
+2026-02-27 18:52:20,340 - INFO - test_Credkart_login_excel_ddt_004 - 54 - User login successful and taking screenshot
+2026-02-27 18:52:20,540 - INFO - test_Credkart_login_excel_ddt_004 - 56 - Clicking on menu button
+2026-02-27 18:52:20,540 - INFO - test_Credkart_login_excel_ddt_004 - 56 - Clicking on menu button
+2026-02-27 18:52:20,641 - INFO - test_Credkart_login_excel_ddt_004 - 58 - Clicking on logout button
+2026-02-27 18:52:20,641 - INFO - test_Credkart_login_excel_ddt_004 - 58 - Clicking on logout button
+2026-02-27 18:52:22,403 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 18:52:22,403 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 18:52:22,430 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-02-27 18:52:22,430 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-02-27 18:52:22,560 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 18:52:22,560 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 18:52:22,657 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 18:52:22,657 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 18:52:23,062 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 18:52:23,062 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 18:52:28,101 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 18:52:28,101 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 18:52:28,473 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 18:52:28,473 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 18:52:28,499 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 18:52:28,499 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 18:52:28,626 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 18:52:28,626 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 18:52:28,754 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 18:52:28,754 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 18:52:29,170 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 18:52:29,170 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 18:52:34,198 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 18:52:34,198 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 18:52:34,604 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 18:52:34,604 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 18:52:34,642 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-02-27 18:52:34,642 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-02-27 18:52:34,780 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 18:52:34,780 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 18:52:34,881 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 18:52:34,881 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 18:52:34,965 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 18:52:34,965 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 18:52:40,809 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 18:52:40,809 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 18:52:40,986 - INFO - test_Credkart_login_excel_ddt_004 - 78 - All the testcases are passed
+2026-02-27 18:52:40,986 - INFO - test_Credkart_login_excel_ddt_004 - 78 - All the testcases are passed
+2026-02-27 18:52:40,986 - INFO - test_Credkart_login_excel_ddt_004 - 83 - Testcase test_Credkart_login_excel_ddt_004 is completed
+2026-02-27 18:52:40,986 - INFO - test_Credkart_login_excel_ddt_004 - 83 - Testcase test_Credkart_login_excel_ddt_004 is completed
+2026-02-27 19:13:28,464 - INFO - test_Credkart_login_excel_ddt_004 - 32 - Testcase test_Credkart_login_excel_ddt_004 is started
+2026-02-27 19:13:28,464 - INFO - test_Credkart_login_excel_ddt_004 - 32 - Testcase test_Credkart_login_excel_ddt_004 is started
+2026-02-27 19:13:28,468 - INFO - test_Credkart_login_excel_ddt_004 - 34 - Reading data from excel
+2026-02-27 19:13:28,468 - INFO - test_Credkart_login_excel_ddt_004 - 34 - Reading data from excel
+2026-02-27 19:13:28,512 - INFO - test_Credkart_login_excel_ddt_004 - 36 - Number of rows in excel is 5
+2026-02-27 19:13:28,512 - INFO - test_Credkart_login_excel_ddt_004 - 36 - Number of rows in excel is 5
+2026-02-27 19:13:28,822 - INFO - test_verify_Credkart_url_001 - 46 - Testcase test_verify_Credkart_url_001 is started
+2026-02-27 19:13:28,822 - INFO - test_verify_Credkart_url_001 - 46 - Testcase test_verify_Credkart_url_001 is started
+2026-02-27 19:13:29,012 - INFO - test_Credkart_login_002 - 66 - Testcase test_Credkart_login_002 is started
+2026-02-27 19:13:29,012 - INFO - test_Credkart_login_002 - 66 - Testcase test_Credkart_login_002 is started
+2026-02-27 19:13:29,018 - INFO - test_Credkart_registration_003 - 129 - Testcase test_Credkart_login_002 is started
+2026-02-27 19:13:29,018 - INFO - test_Credkart_registration_003 - 129 - Testcase test_Credkart_login_002 is started
+2026-02-27 19:13:44,025 - INFO - test_Credkart_registration_003 - 131 - Opening browser and getting https://automation.credence.in/register
+2026-02-27 19:13:44,025 - INFO - test_Credkart_registration_003 - 131 - Opening browser and getting https://automation.credence.in/register
+2026-02-27 19:13:44,027 - INFO - test_Credkart_registration_003 - 134 - Generated fake data for username--> amybutler and email --> kristina50@example.net
+2026-02-27 19:13:44,027 - INFO - test_Credkart_registration_003 - 134 - Generated fake data for username--> amybutler and email --> kristina50@example.net
+2026-02-27 19:13:44,027 - INFO - test_Credkart_registration_003 - 138 - Entering the Username--> amybutler
+2026-02-27 19:13:44,027 - INFO - test_Credkart_registration_003 - 138 - Entering the Username--> amybutler
+2026-02-27 19:13:44,115 - INFO - test_Credkart_registration_003 - 141 - Entering the Email--> kristina50@example.net
+2026-02-27 19:13:44,115 - INFO - test_Credkart_registration_003 - 141 - Entering the Email--> kristina50@example.net
+2026-02-27 19:13:44,226 - INFO - test_Credkart_registration_003 - 144 - Entering the Password
+2026-02-27 19:13:44,226 - INFO - test_Credkart_registration_003 - 144 - Entering the Password
+2026-02-27 19:13:44,344 - INFO - test_Credkart_registration_003 - 147 - Entering the Confirm Password
+2026-02-27 19:13:44,344 - INFO - test_Credkart_registration_003 - 147 - Entering the Confirm Password
+2026-02-27 19:13:44,455 - INFO - test_Credkart_registration_003 - 150 - Clicking on register button
+2026-02-27 19:13:44,455 - INFO - test_Credkart_registration_003 - 150 - Clicking on register button
+2026-02-27 19:14:07,321 - INFO - test_Credkart_registration_003 - 154 - User registration successful and taking screenshot
+2026-02-27 19:14:07,321 - INFO - test_Credkart_registration_003 - 154 - User registration successful and taking screenshot
+2026-02-27 19:14:07,542 - INFO - test_Credkart_registration_003 - 156 - Clicking on menu button
+2026-02-27 19:14:07,542 - INFO - test_Credkart_registration_003 - 156 - Clicking on menu button
+2026-02-27 19:14:07,623 - INFO - test_Credkart_registration_003 - 158 - Clicking on logout button
+2026-02-27 19:14:07,623 - INFO - test_Credkart_registration_003 - 158 - Clicking on logout button
+2026-02-27 19:14:08,520 - INFO - test_Credkart_registration_003 - 164 - Testcase test_Credkart_registration_003 is completed
+2026-02-27 19:14:08,520 - INFO - test_Credkart_registration_003 - 164 - Testcase test_Credkart_registration_003 is completed
+2026-02-27 19:14:09,126 - INFO - test_Credkart_login_002 - 68 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:14:09,126 - INFO - test_Credkart_login_002 - 68 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:14:09,126 - INFO - test_Credkart_login_002 - 77 - Entering the Email Credencetest@test.com
+2026-02-27 19:14:09,126 - INFO - test_Credkart_login_002 - 77 - Entering the Email Credencetest@test.com
+2026-02-27 19:14:09,360 - INFO - test_Credkart_login_002 - 84 - Entering the password
+2026-02-27 19:14:09,360 - INFO - test_Credkart_login_002 - 84 - Entering the password
+2026-02-27 19:14:09,494 - INFO - test_Credkart_login_002 - 90 - Clicking on login button
+2026-02-27 19:14:09,494 - INFO - test_Credkart_login_002 - 90 - Clicking on login button
+2026-02-27 19:14:09,636 - INFO - test_Credkart_login_002 - 110 - Checking the login status
+2026-02-27 19:14:09,636 - INFO - test_Credkart_login_002 - 110 - Checking the login status
+2026-02-27 19:15:02,780 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:15:02,780 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:15:02,813 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 19:15:02,813 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 19:15:03,230 - INFO - test_Credkart_login_excel_ddt_004 - 32 - Testcase test_Credkart_login_excel_ddt_004 is started
+2026-02-27 19:15:03,230 - INFO - test_Credkart_login_excel_ddt_004 - 32 - Testcase test_Credkart_login_excel_ddt_004 is started
+2026-02-27 19:15:03,230 - INFO - test_Credkart_login_excel_ddt_004 - 34 - Reading data from excel
+2026-02-27 19:15:03,230 - INFO - test_Credkart_login_excel_ddt_004 - 34 - Reading data from excel
+2026-02-27 19:15:03,232 - INFO - test_Credkart_login_excel_ddt_004 - 36 - Number of rows in excel is 5
+2026-02-27 19:15:03,232 - INFO - test_Credkart_login_excel_ddt_004 - 36 - Number of rows in excel is 5
+2026-02-27 19:15:03,883 - INFO - test_Credkart_login_002 - 119 - User login fail and taking screenshot
+2026-02-27 19:15:03,883 - INFO - test_Credkart_login_002 - 119 - User login fail and taking screenshot
+2026-02-27 19:15:04,326 - INFO - test_Credkart_login_002 - 66 - Testcase test_Credkart_login_002 is started
+2026-02-27 19:15:04,326 - INFO - test_Credkart_login_002 - 66 - Testcase test_Credkart_login_002 is started
+2026-02-27 19:15:04,890 - INFO - test_verify_Credkart_url_001 - 48 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:15:04,890 - INFO - test_verify_Credkart_url_001 - 48 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:15:04,892 - INFO - test_verify_Credkart_url_001 - 49 - Checking driver title
+2026-02-27 19:15:04,892 - INFO - test_verify_Credkart_url_001 - 49 - Checking driver title
+2026-02-27 19:15:05,294 - INFO - test_verify_Credkart_url_001 - 46 - Testcase test_verify_Credkart_url_001 is started
+2026-02-27 19:15:05,294 - INFO - test_verify_Credkart_url_001 - 46 - Testcase test_verify_Credkart_url_001 is started
+2026-02-27 19:15:46,520 - INFO - test_verify_Credkart_url_001 - 46 - Testcase test_verify_Credkart_url_001 is started
+2026-02-27 19:15:46,520 - INFO - test_verify_Credkart_url_001 - 46 - Testcase test_verify_Credkart_url_001 is started
+2026-02-27 19:16:04,644 - INFO - test_verify_Credkart_url_001 - 48 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:16:04,644 - INFO - test_verify_Credkart_url_001 - 48 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:16:04,644 - INFO - test_verify_Credkart_url_001 - 49 - Checking driver title
+2026-02-27 19:16:04,644 - INFO - test_verify_Credkart_url_001 - 49 - Checking driver title
+2026-02-27 19:16:04,653 - INFO - test_verify_Credkart_url_001 - 51 - Testcase test_verify_Credkart_url_001 is passed
+2026-02-27 19:16:04,653 - INFO - test_verify_Credkart_url_001 - 51 - Testcase test_verify_Credkart_url_001 is passed
+2026-02-27 19:16:04,653 - INFO - test_verify_Credkart_url_001 - 52 - Taking screenshot
+2026-02-27 19:16:04,653 - INFO - test_verify_Credkart_url_001 - 52 - Taking screenshot
+2026-02-27 19:16:05,121 - INFO - test_verify_Credkart_url_001 - 59 - Testcase test_verify_Credkart_url_001 is completed
+2026-02-27 19:16:05,121 - INFO - test_verify_Credkart_url_001 - 59 - Testcase test_verify_Credkart_url_001 is completed
+2026-02-27 19:16:05,125 - INFO - test_Credkart_login_002 - 66 - Testcase test_Credkart_login_002 is started
+2026-02-27 19:16:05,125 - INFO - test_Credkart_login_002 - 66 - Testcase test_Credkart_login_002 is started
+2026-02-27 19:16:05,749 - INFO - test_Credkart_login_002 - 68 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:16:05,749 - INFO - test_Credkart_login_002 - 68 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:16:05,749 - INFO - test_Credkart_login_002 - 77 - Entering the Email Credencetest@test.com
+2026-02-27 19:16:05,749 - INFO - test_Credkart_login_002 - 77 - Entering the Email Credencetest@test.com
+2026-02-27 19:16:05,955 - INFO - test_Credkart_login_002 - 84 - Entering the password
+2026-02-27 19:16:05,955 - INFO - test_Credkart_login_002 - 84 - Entering the password
+2026-02-27 19:16:06,048 - INFO - test_Credkart_login_002 - 90 - Clicking on login button
+2026-02-27 19:16:06,048 - INFO - test_Credkart_login_002 - 90 - Clicking on login button
+2026-02-27 19:16:06,155 - INFO - test_Credkart_login_002 - 110 - Checking the login status
+2026-02-27 19:16:06,155 - INFO - test_Credkart_login_002 - 110 - Checking the login status
+2026-02-27 19:16:11,111 - INFO - test_Credkart_login_002 - 112 - User login successful and taking screenshot
+2026-02-27 19:16:11,111 - INFO - test_Credkart_login_002 - 112 - User login successful and taking screenshot
+2026-02-27 19:16:11,313 - INFO - test_Credkart_login_002 - 114 - Clicking on menu button
+2026-02-27 19:16:11,313 - INFO - test_Credkart_login_002 - 114 - Clicking on menu button
+2026-02-27 19:16:11,406 - INFO - test_Credkart_login_002 - 116 - Clicking on logout button
+2026-02-27 19:16:11,406 - INFO - test_Credkart_login_002 - 116 - Clicking on logout button
+2026-02-27 19:16:12,140 - INFO - test_Credkart_login_002 - 122 - Testcase test_Credkart_login_002 is completed
+2026-02-27 19:16:12,140 - INFO - test_Credkart_login_002 - 122 - Testcase test_Credkart_login_002 is completed
+2026-02-27 19:16:12,144 - INFO - test_Credkart_registration_003 - 129 - Testcase test_Credkart_login_002 is started
+2026-02-27 19:16:12,144 - INFO - test_Credkart_registration_003 - 129 - Testcase test_Credkart_login_002 is started
+2026-02-27 19:16:12,517 - INFO - test_Credkart_registration_003 - 131 - Opening browser and getting https://automation.credence.in/register
+2026-02-27 19:16:12,517 - INFO - test_Credkart_registration_003 - 131 - Opening browser and getting https://automation.credence.in/register
+2026-02-27 19:16:12,577 - INFO - test_Credkart_registration_003 - 134 - Generated fake data for username--> hschmitt and email --> graycrystal@example.org
+2026-02-27 19:16:12,577 - INFO - test_Credkart_registration_003 - 134 - Generated fake data for username--> hschmitt and email --> graycrystal@example.org
+2026-02-27 19:16:12,579 - INFO - test_Credkart_registration_003 - 138 - Entering the Username--> hschmitt
+2026-02-27 19:16:12,579 - INFO - test_Credkart_registration_003 - 138 - Entering the Username--> hschmitt
+2026-02-27 19:16:12,732 - INFO - test_Credkart_registration_003 - 141 - Entering the Email--> graycrystal@example.org
+2026-02-27 19:16:12,732 - INFO - test_Credkart_registration_003 - 141 - Entering the Email--> graycrystal@example.org
+2026-02-27 19:16:12,889 - INFO - test_Credkart_registration_003 - 144 - Entering the Password
+2026-02-27 19:16:12,889 - INFO - test_Credkart_registration_003 - 144 - Entering the Password
+2026-02-27 19:16:13,052 - INFO - test_Credkart_registration_003 - 147 - Entering the Confirm Password
+2026-02-27 19:16:13,052 - INFO - test_Credkart_registration_003 - 147 - Entering the Confirm Password
+2026-02-27 19:16:13,195 - INFO - test_Credkart_registration_003 - 150 - Clicking on register button
+2026-02-27 19:16:13,195 - INFO - test_Credkart_registration_003 - 150 - Clicking on register button
+2026-02-27 19:16:15,159 - INFO - test_Credkart_registration_003 - 154 - User registration successful and taking screenshot
+2026-02-27 19:16:15,159 - INFO - test_Credkart_registration_003 - 154 - User registration successful and taking screenshot
+2026-02-27 19:16:15,381 - INFO - test_Credkart_registration_003 - 156 - Clicking on menu button
+2026-02-27 19:16:15,381 - INFO - test_Credkart_registration_003 - 156 - Clicking on menu button
+2026-02-27 19:16:15,471 - INFO - test_Credkart_registration_003 - 158 - Clicking on logout button
+2026-02-27 19:16:15,471 - INFO - test_Credkart_registration_003 - 158 - Clicking on logout button
+2026-02-27 19:16:16,260 - INFO - test_Credkart_registration_003 - 164 - Testcase test_Credkart_registration_003 is completed
+2026-02-27 19:16:16,260 - INFO - test_Credkart_registration_003 - 164 - Testcase test_Credkart_registration_003 is completed
+2026-02-27 19:16:19,500 - INFO - test_Credkart_login_excel_ddt_004 - 32 - Testcase test_Credkart_login_excel_ddt_004 is started
+2026-02-27 19:16:19,500 - INFO - test_Credkart_login_excel_ddt_004 - 32 - Testcase test_Credkart_login_excel_ddt_004 is started
+2026-02-27 19:16:19,500 - INFO - test_Credkart_login_excel_ddt_004 - 34 - Reading data from excel
+2026-02-27 19:16:19,500 - INFO - test_Credkart_login_excel_ddt_004 - 34 - Reading data from excel
+2026-02-27 19:16:19,540 - INFO - test_Credkart_login_excel_ddt_004 - 36 - Number of rows in excel is 5
+2026-02-27 19:16:19,540 - INFO - test_Credkart_login_excel_ddt_004 - 36 - Number of rows in excel is 5
+2026-02-27 19:16:21,297 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:16:21,297 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:16:21,332 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 19:16:21,332 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 19:16:21,468 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 19:16:21,468 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 19:16:21,559 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 19:16:21,559 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 19:16:21,658 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 19:16:21,658 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 19:16:23,273 - INFO - test_Credkart_login_excel_ddt_004 - 54 - User login successful and taking screenshot
+2026-02-27 19:16:23,273 - INFO - test_Credkart_login_excel_ddt_004 - 54 - User login successful and taking screenshot
+2026-02-27 19:16:23,481 - INFO - test_Credkart_login_excel_ddt_004 - 56 - Clicking on menu button
+2026-02-27 19:16:23,481 - INFO - test_Credkart_login_excel_ddt_004 - 56 - Clicking on menu button
+2026-02-27 19:16:23,567 - INFO - test_Credkart_login_excel_ddt_004 - 58 - Clicking on logout button
+2026-02-27 19:16:23,567 - INFO - test_Credkart_login_excel_ddt_004 - 58 - Clicking on logout button
+2026-02-27 19:16:25,326 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:16:25,326 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:16:25,356 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-02-27 19:16:25,356 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-02-27 19:16:25,432 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 19:16:25,432 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 19:16:25,508 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 19:16:25,508 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 19:16:25,585 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 19:16:25,585 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 19:16:30,616 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 19:16:30,616 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 19:16:31,045 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:16:31,045 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:16:31,094 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 19:16:31,094 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 19:16:31,189 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 19:16:31,189 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 19:16:31,271 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 19:16:31,271 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 19:16:31,355 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 19:16:31,355 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 19:16:37,084 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 19:16:37,084 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 19:16:37,917 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:16:37,917 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:16:37,966 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-02-27 19:16:37,966 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-02-27 19:16:38,063 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 19:16:38,063 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 19:16:38,150 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 19:16:38,150 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 19:16:38,240 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 19:16:38,240 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 19:16:43,294 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 19:16:43,294 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 19:16:43,499 - INFO - test_Credkart_login_excel_ddt_004 - 78 - All the testcases are passed
+2026-02-27 19:16:43,499 - INFO - test_Credkart_login_excel_ddt_004 - 78 - All the testcases are passed
+2026-02-27 19:16:43,499 - INFO - test_Credkart_login_excel_ddt_004 - 83 - Testcase test_Credkart_login_excel_ddt_004 is completed
+2026-02-27 19:16:43,499 - INFO - test_Credkart_login_excel_ddt_004 - 83 - Testcase test_Credkart_login_excel_ddt_004 is completed
+2026-02-27 19:17:50,291 - INFO - test_verify_Credkart_url_001 - 46 - Testcase test_verify_Credkart_url_001 is started
+2026-02-27 19:17:50,291 - INFO - test_verify_Credkart_url_001 - 46 - Testcase test_verify_Credkart_url_001 is started
+2026-02-27 19:17:50,814 - INFO - test_verify_Credkart_url_001 - 48 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:17:50,814 - INFO - test_verify_Credkart_url_001 - 48 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:17:50,817 - INFO - test_verify_Credkart_url_001 - 49 - Checking driver title
+2026-02-27 19:17:50,817 - INFO - test_verify_Credkart_url_001 - 49 - Checking driver title
+2026-02-27 19:17:51,111 - INFO - test_verify_Credkart_url_001 - 51 - Testcase test_verify_Credkart_url_001 is passed
+2026-02-27 19:17:51,111 - INFO - test_verify_Credkart_url_001 - 51 - Testcase test_verify_Credkart_url_001 is passed
+2026-02-27 19:17:51,113 - INFO - test_verify_Credkart_url_001 - 52 - Taking screenshot
+2026-02-27 19:17:51,113 - INFO - test_verify_Credkart_url_001 - 52 - Taking screenshot
+2026-02-27 19:17:51,535 - INFO - test_verify_Credkart_url_001 - 59 - Testcase test_verify_Credkart_url_001 is completed
+2026-02-27 19:17:51,535 - INFO - test_verify_Credkart_url_001 - 59 - Testcase test_verify_Credkart_url_001 is completed
+2026-02-27 19:17:51,539 - INFO - test_Credkart_login_002 - 66 - Testcase test_Credkart_login_002 is started
+2026-02-27 19:17:51,539 - INFO - test_Credkart_login_002 - 66 - Testcase test_Credkart_login_002 is started
+2026-02-27 19:17:51,710 - INFO - test_Credkart_login_002 - 68 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:17:51,710 - INFO - test_Credkart_login_002 - 68 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:17:51,710 - INFO - test_Credkart_login_002 - 77 - Entering the Email Credencetest@test.com
+2026-02-27 19:17:51,710 - INFO - test_Credkart_login_002 - 77 - Entering the Email Credencetest@test.com
+2026-02-27 19:17:51,862 - INFO - test_Credkart_login_002 - 84 - Entering the password
+2026-02-27 19:17:51,862 - INFO - test_Credkart_login_002 - 84 - Entering the password
+2026-02-27 19:17:51,954 - INFO - test_Credkart_login_002 - 90 - Clicking on login button
+2026-02-27 19:17:51,954 - INFO - test_Credkart_login_002 - 90 - Clicking on login button
+2026-02-27 19:17:52,048 - INFO - test_Credkart_login_002 - 110 - Checking the login status
+2026-02-27 19:17:52,048 - INFO - test_Credkart_login_002 - 110 - Checking the login status
+2026-02-27 19:17:53,058 - INFO - test_Credkart_login_002 - 112 - User login successful and taking screenshot
+2026-02-27 19:17:53,058 - INFO - test_Credkart_login_002 - 112 - User login successful and taking screenshot
+2026-02-27 19:17:53,257 - INFO - test_Credkart_login_002 - 114 - Clicking on menu button
+2026-02-27 19:17:53,257 - INFO - test_Credkart_login_002 - 114 - Clicking on menu button
+2026-02-27 19:17:53,338 - INFO - test_Credkart_login_002 - 116 - Clicking on logout button
+2026-02-27 19:17:53,338 - INFO - test_Credkart_login_002 - 116 - Clicking on logout button
+2026-02-27 19:17:53,912 - INFO - test_Credkart_login_002 - 122 - Testcase test_Credkart_login_002 is completed
+2026-02-27 19:17:53,912 - INFO - test_Credkart_login_002 - 122 - Testcase test_Credkart_login_002 is completed
+2026-02-27 19:17:53,917 - INFO - test_Credkart_registration_003 - 129 - Testcase test_Credkart_login_002 is started
+2026-02-27 19:17:53,917 - INFO - test_Credkart_registration_003 - 129 - Testcase test_Credkart_login_002 is started
+2026-02-27 19:17:54,105 - INFO - test_Credkart_registration_003 - 131 - Opening browser and getting https://automation.credence.in/register
+2026-02-27 19:17:54,105 - INFO - test_Credkart_registration_003 - 131 - Opening browser and getting https://automation.credence.in/register
+2026-02-27 19:17:54,112 - INFO - test_Credkart_registration_003 - 134 - Generated fake data for username--> colleenwashington and email --> jose22@example.org
+2026-02-27 19:17:54,112 - INFO - test_Credkart_registration_003 - 134 - Generated fake data for username--> colleenwashington and email --> jose22@example.org
+2026-02-27 19:17:54,114 - INFO - test_Credkart_registration_003 - 138 - Entering the Username--> colleenwashington
+2026-02-27 19:17:54,114 - INFO - test_Credkart_registration_003 - 138 - Entering the Username--> colleenwashington
+2026-02-27 19:17:54,216 - INFO - test_Credkart_registration_003 - 141 - Entering the Email--> jose22@example.org
+2026-02-27 19:17:54,216 - INFO - test_Credkart_registration_003 - 141 - Entering the Email--> jose22@example.org
+2026-02-27 19:17:54,343 - INFO - test_Credkart_registration_003 - 144 - Entering the Password
+2026-02-27 19:17:54,343 - INFO - test_Credkart_registration_003 - 144 - Entering the Password
+2026-02-27 19:17:54,490 - INFO - test_Credkart_registration_003 - 147 - Entering the Confirm Password
+2026-02-27 19:17:54,490 - INFO - test_Credkart_registration_003 - 147 - Entering the Confirm Password
+2026-02-27 19:17:54,596 - INFO - test_Credkart_registration_003 - 150 - Clicking on register button
+2026-02-27 19:17:54,596 - INFO - test_Credkart_registration_003 - 150 - Clicking on register button
+2026-02-27 19:17:55,592 - INFO - test_Credkart_registration_003 - 154 - User registration successful and taking screenshot
+2026-02-27 19:17:55,592 - INFO - test_Credkart_registration_003 - 154 - User registration successful and taking screenshot
+2026-02-27 19:17:55,882 - INFO - test_Credkart_registration_003 - 156 - Clicking on menu button
+2026-02-27 19:17:55,882 - INFO - test_Credkart_registration_003 - 156 - Clicking on menu button
+2026-02-27 19:17:55,962 - INFO - test_Credkart_registration_003 - 158 - Clicking on logout button
+2026-02-27 19:17:55,962 - INFO - test_Credkart_registration_003 - 158 - Clicking on logout button
+2026-02-27 19:17:56,646 - INFO - test_Credkart_registration_003 - 164 - Testcase test_Credkart_registration_003 is completed
+2026-02-27 19:17:56,646 - INFO - test_Credkart_registration_003 - 164 - Testcase test_Credkart_registration_003 is completed
+2026-02-27 19:17:59,986 - INFO - test_Credkart_login_excel_ddt_004 - 32 - Testcase test_Credkart_login_excel_ddt_004 is started
+2026-02-27 19:17:59,986 - INFO - test_Credkart_login_excel_ddt_004 - 32 - Testcase test_Credkart_login_excel_ddt_004 is started
+2026-02-27 19:17:59,986 - INFO - test_Credkart_login_excel_ddt_004 - 34 - Reading data from excel
+2026-02-27 19:17:59,986 - INFO - test_Credkart_login_excel_ddt_004 - 34 - Reading data from excel
+2026-02-27 19:18:00,033 - INFO - test_Credkart_login_excel_ddt_004 - 36 - Number of rows in excel is 5
+2026-02-27 19:18:00,033 - INFO - test_Credkart_login_excel_ddt_004 - 36 - Number of rows in excel is 5
+2026-02-27 19:18:00,555 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:18:00,555 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:18:00,828 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 19:18:00,828 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 19:18:01,438 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 19:18:01,438 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 19:18:01,574 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 19:18:01,574 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 19:18:01,718 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 19:18:01,718 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 19:18:02,810 - INFO - test_Credkart_login_excel_ddt_004 - 54 - User login successful and taking screenshot
+2026-02-27 19:18:02,810 - INFO - test_Credkart_login_excel_ddt_004 - 54 - User login successful and taking screenshot
+2026-02-27 19:18:03,000 - INFO - test_Credkart_login_excel_ddt_004 - 56 - Clicking on menu button
+2026-02-27 19:18:03,000 - INFO - test_Credkart_login_excel_ddt_004 - 56 - Clicking on menu button
+2026-02-27 19:18:03,092 - INFO - test_Credkart_login_excel_ddt_004 - 58 - Clicking on logout button
+2026-02-27 19:18:03,092 - INFO - test_Credkart_login_excel_ddt_004 - 58 - Clicking on logout button
+2026-02-27 19:18:03,976 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:18:03,976 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:18:03,998 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-02-27 19:18:03,998 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-02-27 19:18:04,133 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 19:18:04,133 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 19:18:04,229 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 19:18:04,229 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 19:18:04,648 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 19:18:04,648 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 19:18:09,664 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 19:18:09,664 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 19:18:10,110 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:18:10,110 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:18:10,142 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 19:18:10,142 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 19:18:10,251 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 19:18:10,251 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 19:18:10,344 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 19:18:10,344 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 19:18:10,426 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 19:18:10,426 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 19:18:15,449 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 19:18:15,449 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 19:18:15,879 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:18:15,879 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 19:18:15,906 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-02-27 19:18:15,906 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-02-27 19:18:16,036 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 19:18:16,036 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 19:18:16,151 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 19:18:16,151 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 19:18:16,231 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 19:18:16,231 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 19:18:21,686 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 19:18:21,686 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 19:18:21,933 - INFO - test_Credkart_login_excel_ddt_004 - 78 - All the testcases are passed
+2026-02-27 19:18:21,933 - INFO - test_Credkart_login_excel_ddt_004 - 78 - All the testcases are passed
+2026-02-27 19:18:21,933 - INFO - test_Credkart_login_excel_ddt_004 - 83 - Testcase test_Credkart_login_excel_ddt_004 is completed
+2026-02-27 19:18:21,933 - INFO - test_Credkart_login_excel_ddt_004 - 83 - Testcase test_Credkart_login_excel_ddt_004 is completed
+2026-02-27 21:40:25,465 - INFO - test_verify_Credkart_url_001 - 52 - Testcase test_verify_Credkart_url_001 is started
+2026-02-27 21:40:25,465 - INFO - test_verify_Credkart_url_001 - 52 - Testcase test_verify_Credkart_url_001 is started
+2026-02-27 21:40:26,685 - INFO - test_verify_Credkart_url_001 - 54 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 21:40:26,685 - INFO - test_verify_Credkart_url_001 - 54 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 21:40:26,685 - INFO - test_verify_Credkart_url_001 - 55 - Checking driver title
+2026-02-27 21:40:26,685 - INFO - test_verify_Credkart_url_001 - 55 - Checking driver title
+2026-02-27 21:40:26,700 - INFO - test_verify_Credkart_url_001 - 57 - Testcase test_verify_Credkart_url_001 is passed
+2026-02-27 21:40:26,700 - INFO - test_verify_Credkart_url_001 - 57 - Testcase test_verify_Credkart_url_001 is passed
+2026-02-27 21:40:26,701 - INFO - test_verify_Credkart_url_001 - 58 - Taking screenshot
+2026-02-27 21:40:26,701 - INFO - test_verify_Credkart_url_001 - 58 - Taking screenshot
+2026-02-27 21:40:27,056 - INFO - test_verify_Credkart_url_001 - 66 - Testcase test_verify_Credkart_url_001 is completed
+2026-02-27 21:40:27,056 - INFO - test_verify_Credkart_url_001 - 66 - Testcase test_verify_Credkart_url_001 is completed
+2026-02-27 21:40:37,251 - INFO - test_Credkart_login_excel_ddt_004 - 32 - Testcase test_Credkart_login_excel_ddt_004 is started
+2026-02-27 21:40:37,251 - INFO - test_Credkart_login_excel_ddt_004 - 32 - Testcase test_Credkart_login_excel_ddt_004 is started
+2026-02-27 21:40:37,251 - INFO - test_Credkart_login_excel_ddt_004 - 34 - Reading data from excel
+2026-02-27 21:40:37,251 - INFO - test_Credkart_login_excel_ddt_004 - 34 - Reading data from excel
+2026-02-27 21:40:37,270 - INFO - test_Credkart_login_excel_ddt_004 - 36 - Number of rows in excel is 5
+2026-02-27 21:40:37,270 - INFO - test_Credkart_login_excel_ddt_004 - 36 - Number of rows in excel is 5
+2026-02-27 21:40:37,682 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 21:40:37,682 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 21:40:37,784 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 21:40:37,784 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 21:40:38,703 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 21:40:38,703 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 21:40:38,838 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 21:40:38,838 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 21:40:38,943 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 21:40:38,943 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 21:40:41,130 - INFO - test_Credkart_login_excel_ddt_004 - 54 - User login successful and taking screenshot
+2026-02-27 21:40:41,130 - INFO - test_Credkart_login_excel_ddt_004 - 54 - User login successful and taking screenshot
+2026-02-27 21:40:41,336 - INFO - test_Credkart_login_excel_ddt_004 - 56 - Clicking on menu button
+2026-02-27 21:40:41,336 - INFO - test_Credkart_login_excel_ddt_004 - 56 - Clicking on menu button
+2026-02-27 21:40:41,418 - INFO - test_Credkart_login_excel_ddt_004 - 58 - Clicking on logout button
+2026-02-27 21:40:41,418 - INFO - test_Credkart_login_excel_ddt_004 - 58 - Clicking on logout button
+2026-02-27 21:40:42,461 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 21:40:42,461 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 21:40:42,482 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-02-27 21:40:42,482 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-02-27 21:40:42,624 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 21:40:42,624 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 21:40:42,713 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 21:40:42,713 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 21:40:43,064 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 21:40:43,064 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 21:40:44,303 - INFO - test_Credkart_registration_003 - 136 - Testcase test_Credkart_login_002 is started
+2026-02-27 21:40:44,303 - INFO - test_Credkart_registration_003 - 136 - Testcase test_Credkart_login_002 is started
+2026-02-27 21:40:45,394 - INFO - test_Credkart_registration_003 - 138 - Opening browser and getting https://automation.credence.in/register
+2026-02-27 21:40:45,394 - INFO - test_Credkart_registration_003 - 138 - Opening browser and getting https://automation.credence.in/register
+2026-02-27 21:40:45,406 - INFO - test_Credkart_registration_003 - 141 - Generated fake data for username--> caitlinhernandez and email --> lisa51@example.net
+2026-02-27 21:40:45,406 - INFO - test_Credkart_registration_003 - 141 - Generated fake data for username--> caitlinhernandez and email --> lisa51@example.net
+2026-02-27 21:40:45,406 - INFO - test_Credkart_registration_003 - 145 - Entering the Username--> caitlinhernandez
+2026-02-27 21:40:45,406 - INFO - test_Credkart_registration_003 - 145 - Entering the Username--> caitlinhernandez
+2026-02-27 21:40:45,508 - INFO - test_Credkart_registration_003 - 148 - Entering the Email--> lisa51@example.net
+2026-02-27 21:40:45,508 - INFO - test_Credkart_registration_003 - 148 - Entering the Email--> lisa51@example.net
+2026-02-27 21:40:45,664 - INFO - test_Credkart_registration_003 - 151 - Entering the Password
+2026-02-27 21:40:45,664 - INFO - test_Credkart_registration_003 - 151 - Entering the Password
+2026-02-27 21:40:45,819 - INFO - test_Credkart_registration_003 - 154 - Entering the Confirm Password
+2026-02-27 21:40:45,819 - INFO - test_Credkart_registration_003 - 154 - Entering the Confirm Password
+2026-02-27 21:40:45,932 - INFO - test_Credkart_registration_003 - 157 - Clicking on register button
+2026-02-27 21:40:45,932 - INFO - test_Credkart_registration_003 - 157 - Clicking on register button
+2026-02-27 21:40:47,199 - INFO - test_Credkart_registration_003 - 161 - User registration successful and taking screenshot
+2026-02-27 21:40:47,199 - INFO - test_Credkart_registration_003 - 161 - User registration successful and taking screenshot
+2026-02-27 21:40:47,554 - INFO - test_Credkart_registration_003 - 163 - Clicking on menu button
+2026-02-27 21:40:47,554 - INFO - test_Credkart_registration_003 - 163 - Clicking on menu button
+2026-02-27 21:40:47,568 - INFO - test_Credkart_login_002 - 73 - Testcase test_Credkart_login_002 is started
+2026-02-27 21:40:47,568 - INFO - test_Credkart_login_002 - 73 - Testcase test_Credkart_login_002 is started
+2026-02-27 21:40:47,702 - INFO - test_Credkart_registration_003 - 165 - Clicking on logout button
+2026-02-27 21:40:47,702 - INFO - test_Credkart_registration_003 - 165 - Clicking on logout button
+2026-02-27 21:40:48,076 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 21:40:48,076 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 21:40:48,208 - INFO - test_Credkart_login_002 - 75 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 21:40:48,208 - INFO - test_Credkart_login_002 - 75 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 21:40:48,210 - INFO - test_Credkart_login_002 - 84 - Entering the Email Credencetest@test.com
+2026-02-27 21:40:48,210 - INFO - test_Credkart_login_002 - 84 - Entering the Email Credencetest@test.com
+2026-02-27 21:40:48,328 - INFO - test_Credkart_registration_003 - 171 - Testcase test_Credkart_registration_003 is completed
+2026-02-27 21:40:48,328 - INFO - test_Credkart_registration_003 - 171 - Testcase test_Credkart_registration_003 is completed
+2026-02-27 21:40:48,715 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 21:40:48,715 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 21:40:48,743 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 21:40:48,743 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 21:40:48,869 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 21:40:48,869 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 21:40:48,993 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 21:40:48,993 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 21:40:49,415 - INFO - test_Credkart_login_002 - 91 - Entering the password
+2026-02-27 21:40:49,415 - INFO - test_Credkart_login_002 - 91 - Entering the password
+2026-02-27 21:40:49,479 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 21:40:49,479 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 21:40:49,577 - INFO - test_Credkart_login_002 - 97 - Clicking on login button
+2026-02-27 21:40:49,577 - INFO - test_Credkart_login_002 - 97 - Clicking on login button
+2026-02-27 21:40:54,541 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 21:40:54,541 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 21:40:54,806 - INFO - test_Credkart_login_002 - 117 - Checking the login status
+2026-02-27 21:40:54,806 - INFO - test_Credkart_login_002 - 117 - Checking the login status
+2026-02-27 21:40:54,847 - INFO - test_Credkart_login_002 - 119 - User login successful and taking screenshot
+2026-02-27 21:40:54,847 - INFO - test_Credkart_login_002 - 119 - User login successful and taking screenshot
+2026-02-27 21:40:55,000 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 21:40:55,000 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 21:40:55,029 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-02-27 21:40:55,029 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-02-27 21:40:55,063 - INFO - test_Credkart_login_002 - 121 - Clicking on menu button
+2026-02-27 21:40:55,063 - INFO - test_Credkart_login_002 - 121 - Clicking on menu button
+2026-02-27 21:40:55,129 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 21:40:55,129 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 21:40:55,183 - INFO - test_Credkart_login_002 - 123 - Clicking on logout button
+2026-02-27 21:40:55,183 - INFO - test_Credkart_login_002 - 123 - Clicking on logout button
+2026-02-27 21:40:55,231 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 21:40:55,231 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 21:40:55,351 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 21:40:55,351 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 21:40:56,105 - INFO - test_Credkart_login_002 - 129 - Testcase test_Credkart_login_002 is completed
+2026-02-27 21:40:56,105 - INFO - test_Credkart_login_002 - 129 - Testcase test_Credkart_login_002 is completed
+2026-02-27 21:41:00,868 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 21:41:00,868 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 21:41:01,038 - INFO - test_Credkart_login_excel_ddt_004 - 78 - All the testcases are passed
+2026-02-27 21:41:01,038 - INFO - test_Credkart_login_excel_ddt_004 - 78 - All the testcases are passed
+2026-02-27 21:41:01,038 - INFO - test_Credkart_login_excel_ddt_004 - 83 - Testcase test_Credkart_login_excel_ddt_004 is completed
+2026-02-27 21:41:01,038 - INFO - test_Credkart_login_excel_ddt_004 - 83 - Testcase test_Credkart_login_excel_ddt_004 is completed
+2026-02-27 22:13:01,253 - INFO - test_verify_Credkart_url_001 - 52 - Testcase test_verify_Credkart_url_001 is started
+2026-02-27 22:13:01,253 - INFO - test_verify_Credkart_url_001 - 52 - Testcase test_verify_Credkart_url_001 is started
+2026-02-27 22:13:01,343 - INFO - test_Credkart_registration_003 - 137 - Testcase test_Credkart_login_002 is started
+2026-02-27 22:13:01,343 - INFO - test_Credkart_registration_003 - 137 - Testcase test_Credkart_login_002 is started
+2026-02-27 22:13:01,361 - INFO - test_Credkart_login_excel_ddt_004 - 32 - Testcase test_Credkart_login_excel_ddt_004 is started
+2026-02-27 22:13:01,361 - INFO - test_Credkart_login_excel_ddt_004 - 32 - Testcase test_Credkart_login_excel_ddt_004 is started
+2026-02-27 22:13:01,362 - INFO - test_Credkart_login_excel_ddt_004 - 34 - Reading data from excel
+2026-02-27 22:13:01,362 - INFO - test_Credkart_login_excel_ddt_004 - 34 - Reading data from excel
+2026-02-27 22:13:01,388 - INFO - test_Credkart_login_excel_ddt_004 - 36 - Number of rows in excel is 5
+2026-02-27 22:13:01,388 - INFO - test_Credkart_login_excel_ddt_004 - 36 - Number of rows in excel is 5
+2026-02-27 22:13:01,866 - INFO - test_Credkart_login_002 - 74 - Testcase test_Credkart_login_002 is started
+2026-02-27 22:13:01,866 - INFO - test_Credkart_login_002 - 74 - Testcase test_Credkart_login_002 is started
+2026-02-27 22:13:01,898 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 22:13:01,898 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 22:13:01,967 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 22:13:01,967 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 22:13:02,145 - INFO - test_verify_Credkart_url_001 - 54 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 22:13:02,145 - INFO - test_verify_Credkart_url_001 - 54 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 22:13:02,146 - INFO - test_verify_Credkart_url_001 - 55 - Checking driver title
+2026-02-27 22:13:02,146 - INFO - test_verify_Credkart_url_001 - 55 - Checking driver title
+2026-02-27 22:13:02,178 - INFO - test_verify_Credkart_url_001 - 57 - Testcase test_verify_Credkart_url_001 is passed
+2026-02-27 22:13:02,178 - INFO - test_verify_Credkart_url_001 - 57 - Testcase test_verify_Credkart_url_001 is passed
+2026-02-27 22:13:02,179 - INFO - test_verify_Credkart_url_001 - 58 - Taking screenshot
+2026-02-27 22:13:02,179 - INFO - test_verify_Credkart_url_001 - 58 - Taking screenshot
+2026-02-27 22:13:02,307 - INFO - test_Credkart_registration_003 - 139 - Opening browser and getting https://automation.credence.in/register
+2026-02-27 22:13:02,307 - INFO - test_Credkart_registration_003 - 139 - Opening browser and getting https://automation.credence.in/register
+2026-02-27 22:13:02,320 - INFO - test_Credkart_registration_003 - 142 - Generated fake data for username--> mark96 and email --> jschultz@example.com
+2026-02-27 22:13:02,320 - INFO - test_Credkart_registration_003 - 142 - Generated fake data for username--> mark96 and email --> jschultz@example.com
+2026-02-27 22:13:02,320 - INFO - test_Credkart_registration_003 - 146 - Entering the Username--> mark96
+2026-02-27 22:13:02,320 - INFO - test_Credkart_registration_003 - 146 - Entering the Username--> mark96
+2026-02-27 22:13:02,338 - INFO - test_Credkart_login_002 - 76 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 22:13:02,338 - INFO - test_Credkart_login_002 - 76 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 22:13:02,338 - INFO - test_Credkart_login_002 - 85 - Entering the Email Credencetest@test.com
+2026-02-27 22:13:02,338 - INFO - test_Credkart_login_002 - 85 - Entering the Email Credencetest@test.com
+2026-02-27 22:13:02,554 - INFO - test_Credkart_registration_003 - 149 - Entering the Email--> jschultz@example.com
+2026-02-27 22:13:02,554 - INFO - test_Credkart_registration_003 - 149 - Entering the Email--> jschultz@example.com
+2026-02-27 22:13:02,564 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 22:13:02,564 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 22:13:02,793 - INFO - test_verify_Credkart_url_001 - 67 - Testcase test_verify_Credkart_url_001 is completed
+2026-02-27 22:13:02,793 - INFO - test_verify_Credkart_url_001 - 67 - Testcase test_verify_Credkart_url_001 is completed
+2026-02-27 22:13:03,005 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 22:13:03,005 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 22:13:03,096 - INFO - test_Credkart_registration_003 - 152 - Entering the Password
+2026-02-27 22:13:03,096 - INFO - test_Credkart_registration_003 - 152 - Entering the Password
+2026-02-27 22:13:03,221 - INFO - test_Credkart_login_002 - 92 - Entering the password
+2026-02-27 22:13:03,221 - INFO - test_Credkart_login_002 - 92 - Entering the password
+2026-02-27 22:13:03,276 - INFO - test_Credkart_registration_003 - 155 - Entering the Confirm Password
+2026-02-27 22:13:03,276 - INFO - test_Credkart_registration_003 - 155 - Entering the Confirm Password
+2026-02-27 22:13:03,384 - INFO - test_Credkart_login_002 - 98 - Clicking on login button
+2026-02-27 22:13:03,384 - INFO - test_Credkart_login_002 - 98 - Clicking on login button
+2026-02-27 22:13:03,422 - INFO - test_Credkart_registration_003 - 158 - Clicking on register button
+2026-02-27 22:13:03,422 - INFO - test_Credkart_registration_003 - 158 - Clicking on register button
+2026-02-27 22:13:04,326 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 22:13:04,326 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 22:13:04,358 - INFO - test_Credkart_login_excel_ddt_004 - 54 - User login successful and taking screenshot
+2026-02-27 22:13:04,358 - INFO - test_Credkart_login_excel_ddt_004 - 54 - User login successful and taking screenshot
+2026-02-27 22:13:04,457 - INFO - test_Credkart_login_excel_ddt_004 - 56 - Clicking on menu button
+2026-02-27 22:13:04,457 - INFO - test_Credkart_login_excel_ddt_004 - 56 - Clicking on menu button
+2026-02-27 22:13:04,528 - INFO - test_Credkart_login_excel_ddt_004 - 58 - Clicking on logout button
+2026-02-27 22:13:04,528 - INFO - test_Credkart_login_excel_ddt_004 - 58 - Clicking on logout button
+2026-02-27 22:13:04,761 - INFO - test_Credkart_login_002 - 118 - Checking the login status
+2026-02-27 22:13:04,761 - INFO - test_Credkart_login_002 - 118 - Checking the login status
+2026-02-27 22:13:04,797 - INFO - test_Credkart_login_002 - 120 - User login successful and taking screenshot
+2026-02-27 22:13:04,797 - INFO - test_Credkart_login_002 - 120 - User login successful and taking screenshot
+2026-02-27 22:13:04,879 - INFO - test_Credkart_login_002 - 122 - Clicking on menu button
+2026-02-27 22:13:04,879 - INFO - test_Credkart_login_002 - 122 - Clicking on menu button
+2026-02-27 22:13:04,938 - INFO - test_Credkart_login_002 - 124 - Clicking on logout button
+2026-02-27 22:13:04,938 - INFO - test_Credkart_login_002 - 124 - Clicking on logout button
+2026-02-27 22:13:05,248 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 22:13:05,248 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 22:13:05,264 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-02-27 22:13:05,264 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-02-27 22:13:05,325 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 22:13:05,325 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 22:13:05,391 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 22:13:05,391 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 22:13:05,462 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 22:13:05,462 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 22:13:05,465 - INFO - test_Credkart_login_002 - 130 - Testcase test_Credkart_login_002 is completed
+2026-02-27 22:13:05,465 - INFO - test_Credkart_login_002 - 130 - Testcase test_Credkart_login_002 is completed
+2026-02-27 22:13:06,461 - INFO - test_Credkart_registration_003 - 162 - User registration successful and taking screenshot
+2026-02-27 22:13:06,461 - INFO - test_Credkart_registration_003 - 162 - User registration successful and taking screenshot
+2026-02-27 22:13:06,540 - INFO - test_Credkart_registration_003 - 164 - Clicking on menu button
+2026-02-27 22:13:06,540 - INFO - test_Credkart_registration_003 - 164 - Clicking on menu button
+2026-02-27 22:13:06,623 - INFO - test_Credkart_registration_003 - 166 - Clicking on logout button
+2026-02-27 22:13:06,623 - INFO - test_Credkart_registration_003 - 166 - Clicking on logout button
+2026-02-27 22:13:07,123 - INFO - test_Credkart_registration_003 - 172 - Testcase test_Credkart_registration_003 is completed
+2026-02-27 22:13:07,123 - INFO - test_Credkart_registration_003 - 172 - Testcase test_Credkart_registration_003 is completed
+2026-02-27 22:13:10,491 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 22:13:10,491 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 22:13:10,796 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 22:13:10,796 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 22:13:10,820 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 22:13:10,820 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-02-27 22:13:10,884 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 22:13:10,884 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 22:13:10,948 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 22:13:10,948 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 22:13:11,020 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 22:13:11,020 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 22:13:16,085 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 22:13:16,085 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 22:13:16,440 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 22:13:16,440 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-02-27 22:13:16,464 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-02-27 22:13:16,464 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-02-27 22:13:16,524 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 22:13:16,524 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-02-27 22:13:16,579 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 22:13:16,579 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-02-27 22:13:16,644 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 22:13:16,644 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-02-27 22:13:21,672 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 22:13:21,672 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-02-27 22:13:21,766 - INFO - test_Credkart_login_excel_ddt_004 - 78 - All the testcases are passed
+2026-02-27 22:13:21,766 - INFO - test_Credkart_login_excel_ddt_004 - 78 - All the testcases are passed
+2026-02-27 22:13:21,766 - INFO - test_Credkart_login_excel_ddt_004 - 83 - Testcase test_Credkart_login_excel_ddt_004 is completed
+2026-02-27 22:13:21,766 - INFO - test_Credkart_login_excel_ddt_004 - 83 - Testcase test_Credkart_login_excel_ddt_004 is completed
+2026-03-01 16:37:39,329 - INFO - test_Credkart_registration_003 - 137 - Testcase test_Credkart_login_002 is started
+2026-03-01 16:37:39,329 - INFO - test_Credkart_registration_003 - 137 - Testcase test_Credkart_login_002 is started
+2026-03-01 16:37:40,204 - INFO - test_verify_Credkart_url_001 - 52 - Testcase test_verify_Credkart_url_001 is started
+2026-03-01 16:37:40,204 - INFO - test_verify_Credkart_url_001 - 52 - Testcase test_verify_Credkart_url_001 is started
+2026-03-01 16:37:40,640 - INFO - test_verify_Credkart_url_001 - 54 - Opening browser and getting https://automation.credence.in/login
+2026-03-01 16:37:40,640 - INFO - test_verify_Credkart_url_001 - 54 - Opening browser and getting https://automation.credence.in/login
+2026-03-01 16:37:40,644 - INFO - test_verify_Credkart_url_001 - 55 - Checking driver title
+2026-03-01 16:37:40,644 - INFO - test_verify_Credkart_url_001 - 55 - Checking driver title
+2026-03-01 16:37:41,000 - INFO - test_verify_Credkart_url_001 - 57 - Testcase test_verify_Credkart_url_001 is passed
+2026-03-01 16:37:41,000 - INFO - test_verify_Credkart_url_001 - 57 - Testcase test_verify_Credkart_url_001 is passed
+2026-03-01 16:37:41,001 - INFO - test_verify_Credkart_url_001 - 58 - Taking screenshot
+2026-03-01 16:37:41,001 - INFO - test_verify_Credkart_url_001 - 58 - Taking screenshot
+2026-03-01 16:37:41,084 - INFO - test_Credkart_registration_003 - 139 - Opening browser and getting https://automation.credence.in/register
+2026-03-01 16:37:41,084 - INFO - test_Credkart_registration_003 - 139 - Opening browser and getting https://automation.credence.in/register
+2026-03-01 16:37:41,109 - INFO - test_Credkart_registration_003 - 142 - Generated fake data for username--> xsmith and email --> cynthia93@example.net
+2026-03-01 16:37:41,109 - INFO - test_Credkart_registration_003 - 142 - Generated fake data for username--> xsmith and email --> cynthia93@example.net
+2026-03-01 16:37:41,109 - INFO - test_Credkart_registration_003 - 146 - Entering the Username--> xsmith
+2026-03-01 16:37:41,109 - INFO - test_Credkart_registration_003 - 146 - Entering the Username--> xsmith
+2026-03-01 16:37:41,367 - INFO - test_Credkart_login_excel_ddt_004 - 32 - Testcase test_Credkart_login_excel_ddt_004 is started
+2026-03-01 16:37:41,367 - INFO - test_Credkart_login_excel_ddt_004 - 32 - Testcase test_Credkart_login_excel_ddt_004 is started
+2026-03-01 16:37:41,367 - INFO - test_Credkart_login_excel_ddt_004 - 34 - Reading data from excel
+2026-03-01 16:37:41,367 - INFO - test_Credkart_login_excel_ddt_004 - 34 - Reading data from excel
+2026-03-01 16:37:41,392 - INFO - test_Credkart_login_excel_ddt_004 - 36 - Number of rows in excel is 5
+2026-03-01 16:37:41,392 - INFO - test_Credkart_login_excel_ddt_004 - 36 - Number of rows in excel is 5
+2026-03-01 16:37:41,514 - INFO - test_Credkart_registration_003 - 149 - Entering the Email--> cynthia93@example.net
+2026-03-01 16:37:41,514 - INFO - test_Credkart_registration_003 - 149 - Entering the Email--> cynthia93@example.net
+2026-03-01 16:37:41,700 - INFO - test_Credkart_registration_003 - 152 - Entering the Password
+2026-03-01 16:37:41,700 - INFO - test_Credkart_registration_003 - 152 - Entering the Password
+2026-03-01 16:37:41,784 - INFO - test_verify_Credkart_url_001 - 67 - Testcase test_verify_Credkart_url_001 is completed
+2026-03-01 16:37:41,784 - INFO - test_verify_Credkart_url_001 - 67 - Testcase test_verify_Credkart_url_001 is completed
+2026-03-01 16:37:41,926 - INFO - test_Credkart_registration_003 - 155 - Entering the Confirm Password
+2026-03-01 16:37:41,926 - INFO - test_Credkart_registration_003 - 155 - Entering the Confirm Password
+2026-03-01 16:37:42,056 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-03-01 16:37:42,056 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-03-01 16:37:42,242 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-03-01 16:37:42,242 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-03-01 16:37:42,403 - INFO - test_Credkart_registration_003 - 158 - Clicking on register button
+2026-03-01 16:37:42,403 - INFO - test_Credkart_registration_003 - 158 - Clicking on register button
+2026-03-01 16:37:42,632 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-03-01 16:37:42,632 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-03-01 16:37:42,894 - INFO - test_Credkart_login_002 - 74 - Testcase test_Credkart_login_002 is started
+2026-03-01 16:37:42,894 - INFO - test_Credkart_login_002 - 74 - Testcase test_Credkart_login_002 is started
+2026-03-01 16:37:42,921 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-03-01 16:37:42,921 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-03-01 16:37:43,105 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-03-01 16:37:43,105 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-03-01 16:37:43,517 - INFO - test_Credkart_login_002 - 76 - Opening browser and getting https://automation.credence.in/login
+2026-03-01 16:37:43,517 - INFO - test_Credkart_login_002 - 76 - Opening browser and getting https://automation.credence.in/login
+2026-03-01 16:37:43,517 - INFO - test_Credkart_login_002 - 85 - Entering the Email Credencetest@test.com
+2026-03-01 16:37:43,517 - INFO - test_Credkart_login_002 - 85 - Entering the Email Credencetest@test.com
+2026-03-01 16:37:43,835 - INFO - test_Credkart_login_002 - 92 - Entering the password
+2026-03-01 16:37:43,835 - INFO - test_Credkart_login_002 - 92 - Entering the password
+2026-03-01 16:37:43,985 - INFO - test_Credkart_login_002 - 98 - Clicking on login button
+2026-03-01 16:37:43,985 - INFO - test_Credkart_login_002 - 98 - Clicking on login button
+2026-03-01 16:37:44,131 - INFO - test_Credkart_login_002 - 118 - Checking the login status
+2026-03-01 16:37:44,131 - INFO - test_Credkart_login_002 - 118 - Checking the login status
+2026-03-01 16:37:44,263 - INFO - test_Credkart_login_excel_ddt_004 - 54 - User login successful and taking screenshot
+2026-03-01 16:37:44,263 - INFO - test_Credkart_login_excel_ddt_004 - 54 - User login successful and taking screenshot
+2026-03-01 16:37:44,520 - INFO - test_Credkart_login_excel_ddt_004 - 56 - Clicking on menu button
+2026-03-01 16:37:44,520 - INFO - test_Credkart_login_excel_ddt_004 - 56 - Clicking on menu button
+2026-03-01 16:37:44,633 - INFO - test_Credkart_login_excel_ddt_004 - 58 - Clicking on logout button
+2026-03-01 16:37:44,633 - INFO - test_Credkart_login_excel_ddt_004 - 58 - Clicking on logout button
+2026-03-01 16:37:45,095 - INFO - test_Credkart_login_002 - 120 - User login successful and taking screenshot
+2026-03-01 16:37:45,095 - INFO - test_Credkart_login_002 - 120 - User login successful and taking screenshot
+2026-03-01 16:37:45,307 - INFO - test_Credkart_login_002 - 122 - Clicking on menu button
+2026-03-01 16:37:45,307 - INFO - test_Credkart_login_002 - 122 - Clicking on menu button
+2026-03-01 16:37:45,338 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-03-01 16:37:45,338 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-03-01 16:37:45,361 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-03-01 16:37:45,361 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-03-01 16:37:45,408 - INFO - test_Credkart_login_002 - 124 - Clicking on logout button
+2026-03-01 16:37:45,408 - INFO - test_Credkart_login_002 - 124 - Clicking on logout button
+2026-03-01 16:37:45,451 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-03-01 16:37:45,451 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-03-01 16:37:45,553 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-03-01 16:37:45,553 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-03-01 16:37:45,641 - INFO - test_Credkart_registration_003 - 162 - User registration successful and taking screenshot
+2026-03-01 16:37:45,641 - INFO - test_Credkart_registration_003 - 162 - User registration successful and taking screenshot
+2026-03-01 16:37:45,654 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-03-01 16:37:45,654 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-03-01 16:37:45,830 - INFO - test_Credkart_registration_003 - 164 - Clicking on menu button
+2026-03-01 16:37:45,830 - INFO - test_Credkart_registration_003 - 164 - Clicking on menu button
+2026-03-01 16:37:45,917 - INFO - test_Credkart_registration_003 - 166 - Clicking on logout button
+2026-03-01 16:37:45,917 - INFO - test_Credkart_registration_003 - 166 - Clicking on logout button
+2026-03-01 16:37:45,941 - INFO - test_Credkart_login_002 - 130 - Testcase test_Credkart_login_002 is completed
+2026-03-01 16:37:45,941 - INFO - test_Credkart_login_002 - 130 - Testcase test_Credkart_login_002 is completed
+2026-03-01 16:37:47,307 - INFO - test_Credkart_registration_003 - 172 - Testcase test_Credkart_registration_003 is completed
+2026-03-01 16:37:47,307 - INFO - test_Credkart_registration_003 - 172 - Testcase test_Credkart_registration_003 is completed
+2026-03-01 16:37:50,667 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-03-01 16:37:50,667 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-03-01 16:37:50,949 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-03-01 16:37:50,949 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-03-01 16:37:50,967 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-03-01 16:37:50,967 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-03-01 16:37:51,011 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-03-01 16:37:51,011 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-03-01 16:37:51,065 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-03-01 16:37:51,065 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-03-01 16:37:51,116 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-03-01 16:37:51,116 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-03-01 16:37:56,174 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-03-01 16:37:56,174 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-03-01 16:37:56,519 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-03-01 16:37:56,519 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-03-01 16:37:56,536 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-03-01 16:37:56,536 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-03-01 16:37:56,590 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-03-01 16:37:56,590 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-03-01 16:37:56,649 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-03-01 16:37:56,649 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-03-01 16:37:56,704 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-03-01 16:37:56,704 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-03-01 16:38:01,762 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-03-01 16:38:01,762 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-03-01 16:38:01,882 - INFO - test_Credkart_login_excel_ddt_004 - 78 - All the testcases are passed
+2026-03-01 16:38:01,882 - INFO - test_Credkart_login_excel_ddt_004 - 78 - All the testcases are passed
+2026-03-01 16:38:01,882 - INFO - test_Credkart_login_excel_ddt_004 - 83 - Testcase test_Credkart_login_excel_ddt_004 is completed
+2026-03-01 16:38:01,882 - INFO - test_Credkart_login_excel_ddt_004 - 83 - Testcase test_Credkart_login_excel_ddt_004 is completed
+2026-03-01 16:45:33,822 - INFO - test_Credkart_login_excel_ddt_004 - 32 - Testcase test_Credkart_login_excel_ddt_004 is started
+2026-03-01 16:45:33,822 - INFO - test_Credkart_login_excel_ddt_004 - 32 - Testcase test_Credkart_login_excel_ddt_004 is started
+2026-03-01 16:45:33,823 - INFO - test_Credkart_login_excel_ddt_004 - 34 - Reading data from excel
+2026-03-01 16:45:33,823 - INFO - test_Credkart_login_excel_ddt_004 - 34 - Reading data from excel
+2026-03-01 16:45:33,851 - INFO - test_Credkart_login_excel_ddt_004 - 36 - Number of rows in excel is 5
+2026-03-01 16:45:33,851 - INFO - test_Credkart_login_excel_ddt_004 - 36 - Number of rows in excel is 5
+2026-03-01 16:45:33,918 - INFO - test_Credkart_registration_003 - 137 - Testcase test_Credkart_login_002 is started
+2026-03-01 16:45:33,918 - INFO - test_Credkart_registration_003 - 137 - Testcase test_Credkart_login_002 is started
+2026-03-01 16:45:34,130 - INFO - test_verify_Credkart_url_001 - 52 - Testcase test_verify_Credkart_url_001 is started
+2026-03-01 16:45:34,130 - INFO - test_verify_Credkart_url_001 - 52 - Testcase test_verify_Credkart_url_001 is started
+2026-03-01 16:45:34,135 - INFO - test_Credkart_login_002 - 74 - Testcase test_Credkart_login_002 is started
+2026-03-01 16:45:34,135 - INFO - test_Credkart_login_002 - 74 - Testcase test_Credkart_login_002 is started
+2026-03-01 16:45:35,358 - INFO - test_Credkart_login_002 - 76 - Opening browser and getting https://automation.credence.in/login
+2026-03-01 16:45:35,358 - INFO - test_Credkart_login_002 - 76 - Opening browser and getting https://automation.credence.in/login
+2026-03-01 16:45:35,358 - INFO - test_Credkart_login_002 - 85 - Entering the Email Credencetest@test.com
+2026-03-01 16:45:35,358 - INFO - test_Credkart_login_002 - 85 - Entering the Email Credencetest@test.com
+2026-03-01 16:45:35,374 - INFO - test_verify_Credkart_url_001 - 54 - Opening browser and getting https://automation.credence.in/login
+2026-03-01 16:45:35,374 - INFO - test_verify_Credkart_url_001 - 54 - Opening browser and getting https://automation.credence.in/login
+2026-03-01 16:45:35,375 - INFO - test_verify_Credkart_url_001 - 55 - Checking driver title
+2026-03-01 16:45:35,375 - INFO - test_verify_Credkart_url_001 - 55 - Checking driver title
+2026-03-01 16:45:35,383 - INFO - test_Credkart_registration_003 - 139 - Opening browser and getting https://automation.credence.in/register
+2026-03-01 16:45:35,383 - INFO - test_Credkart_registration_003 - 139 - Opening browser and getting https://automation.credence.in/register
+2026-03-01 16:45:35,405 - INFO - test_Credkart_registration_003 - 142 - Generated fake data for username--> jcruz and email --> nlee@example.org
+2026-03-01 16:45:35,405 - INFO - test_Credkart_registration_003 - 142 - Generated fake data for username--> jcruz and email --> nlee@example.org
+2026-03-01 16:45:35,406 - INFO - test_Credkart_registration_003 - 146 - Entering the Username--> jcruz
+2026-03-01 16:45:35,406 - INFO - test_Credkart_registration_003 - 146 - Entering the Username--> jcruz
+2026-03-01 16:45:35,419 - INFO - test_verify_Credkart_url_001 - 57 - Testcase test_verify_Credkart_url_001 is passed
+2026-03-01 16:45:35,419 - INFO - test_verify_Credkart_url_001 - 57 - Testcase test_verify_Credkart_url_001 is passed
+2026-03-01 16:45:35,420 - INFO - test_verify_Credkart_url_001 - 58 - Taking screenshot
+2026-03-01 16:45:35,420 - INFO - test_verify_Credkart_url_001 - 58 - Taking screenshot
+2026-03-01 16:45:35,689 - INFO - test_Credkart_registration_003 - 149 - Entering the Email--> nlee@example.org
+2026-03-01 16:45:35,689 - INFO - test_Credkart_registration_003 - 149 - Entering the Email--> nlee@example.org
+2026-03-01 16:45:36,017 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-03-01 16:45:36,017 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-03-01 16:45:36,030 - INFO - test_Credkart_registration_003 - 152 - Entering the Password
+2026-03-01 16:45:36,030 - INFO - test_Credkart_registration_003 - 152 - Entering the Password
+2026-03-01 16:45:36,080 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-03-01 16:45:36,080 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-03-01 16:45:36,108 - INFO - test_verify_Credkart_url_001 - 67 - Testcase test_verify_Credkart_url_001 is completed
+2026-03-01 16:45:36,108 - INFO - test_verify_Credkart_url_001 - 67 - Testcase test_verify_Credkart_url_001 is completed
+2026-03-01 16:45:36,418 - INFO - test_Credkart_registration_003 - 155 - Entering the Confirm Password
+2026-03-01 16:45:36,418 - INFO - test_Credkart_registration_003 - 155 - Entering the Confirm Password
+2026-03-01 16:45:36,550 - INFO - test_Credkart_login_002 - 92 - Entering the password
+2026-03-01 16:45:36,550 - INFO - test_Credkart_login_002 - 92 - Entering the password
+2026-03-01 16:45:36,589 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-03-01 16:45:36,589 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-03-01 16:45:36,709 - INFO - test_Credkart_registration_003 - 158 - Clicking on register button
+2026-03-01 16:45:36,709 - INFO - test_Credkart_registration_003 - 158 - Clicking on register button
+2026-03-01 16:45:36,765 - INFO - test_Credkart_login_002 - 98 - Clicking on login button
+2026-03-01 16:45:36,765 - INFO - test_Credkart_login_002 - 98 - Clicking on login button
+2026-03-01 16:45:36,803 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-03-01 16:45:36,803 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-03-01 16:45:36,961 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-03-01 16:45:36,961 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-03-01 16:45:37,942 - INFO - test_Credkart_registration_003 - 162 - User registration successful and taking screenshot
+2026-03-01 16:45:37,942 - INFO - test_Credkart_registration_003 - 162 - User registration successful and taking screenshot
+2026-03-01 16:45:38,132 - INFO - test_Credkart_registration_003 - 164 - Clicking on menu button
+2026-03-01 16:45:38,132 - INFO - test_Credkart_registration_003 - 164 - Clicking on menu button
+2026-03-01 16:45:38,208 - INFO - test_Credkart_registration_003 - 166 - Clicking on logout button
+2026-03-01 16:45:38,208 - INFO - test_Credkart_registration_003 - 166 - Clicking on logout button
+2026-03-01 16:45:38,295 - INFO - test_Credkart_registration_003 - 172 - Testcase test_Credkart_registration_003 is completed
+2026-03-01 16:45:38,295 - INFO - test_Credkart_registration_003 - 172 - Testcase test_Credkart_registration_003 is completed
+2026-03-01 16:45:39,402 - INFO - test_Credkart_login_002 - 118 - Checking the login status
+2026-03-01 16:45:39,402 - INFO - test_Credkart_login_002 - 118 - Checking the login status
+2026-03-01 16:45:39,448 - INFO - test_Credkart_login_002 - 120 - User login successful and taking screenshot
+2026-03-01 16:45:39,448 - INFO - test_Credkart_login_002 - 120 - User login successful and taking screenshot
+2026-03-01 16:45:39,450 - INFO - test_Credkart_login_excel_ddt_004 - 54 - User login successful and taking screenshot
+2026-03-01 16:45:39,450 - INFO - test_Credkart_login_excel_ddt_004 - 54 - User login successful and taking screenshot
+2026-03-01 16:45:39,617 - INFO - test_Credkart_login_excel_ddt_004 - 56 - Clicking on menu button
+2026-03-01 16:45:39,617 - INFO - test_Credkart_login_excel_ddt_004 - 56 - Clicking on menu button
+2026-03-01 16:45:39,624 - INFO - test_Credkart_login_002 - 122 - Clicking on menu button
+2026-03-01 16:45:39,624 - INFO - test_Credkart_login_002 - 122 - Clicking on menu button
+2026-03-01 16:45:39,700 - INFO - test_Credkart_login_excel_ddt_004 - 58 - Clicking on logout button
+2026-03-01 16:45:39,700 - INFO - test_Credkart_login_excel_ddt_004 - 58 - Clicking on logout button
+2026-03-01 16:45:39,729 - INFO - test_Credkart_login_002 - 124 - Clicking on logout button
+2026-03-01 16:45:39,729 - INFO - test_Credkart_login_002 - 124 - Clicking on logout button
+2026-03-01 16:45:41,047 - INFO - test_Credkart_login_002 - 130 - Testcase test_Credkart_login_002 is completed
+2026-03-01 16:45:41,047 - INFO - test_Credkart_login_002 - 130 - Testcase test_Credkart_login_002 is completed
+2026-03-01 16:45:41,587 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-03-01 16:45:41,587 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-03-01 16:45:41,611 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-03-01 16:45:41,611 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-03-01 16:45:41,752 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-03-01 16:45:41,752 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-03-01 16:45:41,841 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-03-01 16:45:41,841 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-03-01 16:45:41,904 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-03-01 16:45:41,904 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-03-01 16:45:46,922 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-03-01 16:45:46,922 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-03-01 16:45:47,689 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-03-01 16:45:47,689 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-03-01 16:45:47,709 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-03-01 16:45:47,709 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com
+2026-03-01 16:45:47,920 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-03-01 16:45:47,920 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-03-01 16:45:48,035 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-03-01 16:45:48,035 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-03-01 16:45:48,104 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-03-01 16:45:48,104 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-03-01 16:45:53,146 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-03-01 16:45:53,146 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-03-01 16:45:53,975 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-03-01 16:45:53,975 - INFO - test_Credkart_login_excel_ddt_004 - 41 - Opening browser and getting https://automation.credence.in/login
+2026-03-01 16:45:54,000 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-03-01 16:45:54,000 - INFO - test_Credkart_login_excel_ddt_004 - 46 - Entering the Email Credencetest@test.com11
+2026-03-01 16:45:54,124 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-03-01 16:45:54,124 - INFO - test_Credkart_login_excel_ddt_004 - 48 - Entering the password
+2026-03-01 16:45:54,214 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-03-01 16:45:54,214 - INFO - test_Credkart_login_excel_ddt_004 - 50 - Clicking on login button
+2026-03-01 16:45:54,278 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-03-01 16:45:54,278 - INFO - test_Credkart_login_excel_ddt_004 - 52 - Checking the login status
+2026-03-01 16:46:00,346 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-03-01 16:46:00,346 - INFO - test_Credkart_login_excel_ddt_004 - 63 - User login fail and taking screenshot
+2026-03-01 16:46:00,489 - INFO - test_Credkart_login_excel_ddt_004 - 78 - All the testcases are passed
+2026-03-01 16:46:00,489 - INFO - test_Credkart_login_excel_ddt_004 - 78 - All the testcases are passed
+2026-03-01 16:46:00,489 - INFO - test_Credkart_login_excel_ddt_004 - 83 - Testcase test_Credkart_login_excel_ddt_004 is completed
+2026-03-01 16:46:00,489 - INFO - test_Credkart_login_excel_ddt_004 - 83 - Testcase test_Credkart_login_excel_ddt_004 is completed
