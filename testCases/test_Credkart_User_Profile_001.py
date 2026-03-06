@@ -82,13 +82,13 @@ class Test_User_Profile :
             assert False
         self.log.info(f"Testcase test_verify_Credkart_url_001 is completed")
 
-    @allure.title("test_Credkart_login_002")
-    @allure.severity(allure.severity_level.NORMAL)
-    @allure.epic("Epic: Userprofile: user login")
-    @allure.description("This testcases is to validate CredKart website  user login")
-    @allure.link(login_url)
-    @allure.issue("user login")
-    @allure.story("CredKart : User login")
+    # @allure.title("test_Credkart_login_002")
+    # @allure.severity(allure.severity_level.NORMAL)
+    # @allure.epic("Epic: Userprofile: user login")
+    # @allure.description("This testcases is to validate CredKart website  user login")
+    # @allure.link(login_url)
+    # @allure.issue("user login")
+    # @allure.story("CredKart : User login")
     @pytest.mark.smoke
     @pytest.mark.flaky(reruns=1, rerun_delay=1)
     #@pytest.mark.dependency(depends=["test_verify_Credkart_url_001"])
