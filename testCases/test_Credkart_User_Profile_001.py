@@ -1,4 +1,18 @@
+
 """
+
+First you have to do manual testing,(to test the application and get understanding on functionalities )
+when the manual testing is near to completed and build is also very much stable
+then we can start the plan for automation testing.
+
+
+
+
+
+automation testing plan :
+define : Who is the tester, define : Time-line
+(smoke, sanity, regression, other imp testcases)
+
 Testcases :
 1. Login
 2. Registration
@@ -10,19 +24,17 @@ Testcases :
 8. Registration with Excel
 
 Mostly all you are Sanity and Smoke testcases are in automation list.
+
 """
 import allure
 import pytest
 from faker import Faker
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support import expected_conditions
-from selenium.webdriver.support.wait import WebDriverWait
 
-from utilities.Logger import log_generator_class
-from utilities.ReadProperties import ReadConfigClass
+
 from pageObjects.Login_Page import Login_Page_Class
 from pageObjects.Registration_Page import Registration_Page_Class
+from utilities.Logger import log_generator_class
+from utilities.ReadProperties import ReadConfigClass
 
 
 @pytest.mark.usefixtures("browser_setup") # New
@@ -34,14 +46,16 @@ class Test_User_Profile :
     registration_url =ReadConfigClass.get_data_for_registration_url()
     log = log_generator_class.log_gen_method()
 
-    @allure.epic("URL Verification")
-    @allure.suite("User Verification")
-    @allure.title("URL Verification")
-    @allure.description("This is  test_verify_Credkart_url_001 Verification test case")
+    @allure.title("test_verify_Credkart_url_001")
+    @allure.severity(allure.severity_level.CRITICAL)
+    @allure.epic("Epic: Userprofile")
+    @allure.description("This testcases is to validate CredKart website title")
     @allure.link(login_url)
+    @allure.issue("title verification")
+    @allure.story("CredKart : User login")
     @pytest.mark.smoke
     @pytest.mark.flaky(reruns=1, rerun_delay=1)
-    # @pytest.mark.dependency(name = "test_verify_Credkart_url_001")
+    @pytest.mark.dependency(name = "test_verify_Credkart_url_001")
     @pytest.mark.order(1)
     def test_verify_Credkart_url_001(self):
         # self.log.debug("This is debug log")
@@ -57,15 +71,24 @@ class Test_User_Profile :
             self.log.info(f"Testcase test_verify_Credkart_url_001 is passed")
             self.log.info(f"Taking screenshot")
             self.driver.save_screenshot(".\\Screenshots\\test_verify_Credkart_url_001_pass.png")
-            allure.attach.file(".\\Screenshots\\test_verify_Credkart_url_001_pass.png",attachment_type=allure.attachment_type.PNG)
+            allure.attach.file(".\\Screenshots\\test_verify_Credkart_url_001_pass.png" , attachment_type = allure.attachment_type.PNG)
         else:
             self.log.info(f"Testcase test_verify_Credkart_url_001 is failed")
             self.log.info(f"Taking screenshot")
             self.driver.save_screenshot(".\\Screenshots\\test_verify_Credkart_url_001_fail.png")
-            allure.attach.file(".\\Screenshots\\test_verify_Credkart_url_001_fail.png",attachment_type=allure.attachment_type.PNG)
+            allure.attach.file(".\\Screenshots\\test_verify_Credkart_url_001_fail.png",
+                               attachment_type=allure.attachment_type.PNG
+                               )
             assert False
         self.log.info(f"Testcase test_verify_Credkart_url_001 is completed")
 
+    @allure.title("test_Credkart_login_002")
+    @allure.severity(allure.severity_level.NORMAL)
+    @allure.epic("Epic: Userprofile: user login")
+    @allure.description("This testcases is to validate CredKart website  user login")
+    @allure.link(login_url)
+    @allure.issue("user login")
+    @allure.story("CredKart : User login")
     @pytest.mark.smoke
     @pytest.mark.flaky(reruns=1, rerun_delay=1)
     #@pytest.mark.dependency(depends=["test_verify_Credkart_url_001"])
@@ -119,6 +142,9 @@ class Test_User_Profile :
         if self.lp.verify_menu_button_visibility() == "pass":
             self.log.info(f"User login successful and taking screenshot")
             self.driver.save_screenshot(f".\\Screenshots\\User Login Successful_{self.email}.png")
+            allure.attach.file(f".\\Screenshots\\User Login Successful_{self.email}",
+                               attachment_type=allure.attachment_type.PNG
+                               )
             self.log.info(f"Clicking on menu button")
             self.lp.Click_Menu_button()
             self.log.info(f"Clicking on logout button")
@@ -126,15 +152,26 @@ class Test_User_Profile :
         else:
             self.log.info(f"User login fail and taking screenshot")
             self.driver.save_screenshot(f".\\Screenshots\\User Login Fail_{self.email}.png")
+            allure.attach.file(f".\\Screenshots\\User Login Fail_{self.email}.png",
+                               attachment_type=allure.attachment_type.PNG
+                               )
             assert False, "User Login Fail"
         self.log.info(f"Testcase test_Credkart_login_002 is completed")
 
+
+    @allure.title("test_Credkart_registration_003")
+    @allure.severity(allure.severity_level.CRITICAL)
+    @allure.epic("Epic: Userprofile: user registration")
+    @allure.description("This testcases is to validate CredKart website user registration")
+    @allure.link(login_url)
+    @allure.issue("user registration")
+    @allure.story("CredKart : User registration")
     @pytest.mark.smoke
     @pytest.mark.flaky(reruns=1, rerun_delay=1)
     #@pytest.mark.dependency(depends=["test_verify_Credkart_url_001"])
     @pytest.mark.order(3)
     def test_Credkart_registration_003(self):
-        self.log.info("Testcase test_Credkart_login_002 is started")
+        self.log.info("Testcase test_Credkart_registration_003 is started")
         self.driver.get(self.registration_url)
         self.log.info(f"Opening browser and getting {self.registration_url}")
         fake_username = Faker().user_name()# New
@@ -161,6 +198,9 @@ class Test_User_Profile :
         if self.rp.verify_menu_button_visibility() == "pass":
             self.log.info(f"User registration successful and taking screenshot")
             self.driver.save_screenshot(f".\\Screenshots\\User Registration Successful_{fake_username}.png")
+            allure.attach.file(f".\\Screenshots\\User Registration Successful_{fake_username}.png",
+                               attachment_type=allure.attachment_type.PNG
+                               )
             self.log.info(f"Clicking on menu button")
             self.rp.Click_Menu_button()
             self.log.info(f"Clicking on logout button")
@@ -168,10 +208,22 @@ class Test_User_Profile :
         else:
             self.log.info(f"User registration fail and taking screenshot")
             self.driver.save_screenshot(f".\\Screenshots\\User Registration Fail_{fake_username}.png")
+            allure.attach.file(f".\\Screenshots\\User Registration Fail_{fake_username}.png",
+                               attachment_type=allure.attachment_type.PNG
+                               )
             assert False, "User Registration Fail"
         self.log.info(f"Testcase test_Credkart_registration_003 is completed")
 
 # pytest -v -s -n=auto --html=Html_reports\my_report_28th_jan_2026.html
+# pytest -v -s -n=auto --html=Html_reports\my_report_28th_jan_2026.html --alluredir=AllureReports
+
+
+# >pip install allure-pytest
+# Create allure report file from below command:
+# pytest -n=auto --alluredir=AllureReports
+
+# to generate allure report use below command:
+# allure serve "AllureReports"
 
 # 27th jan 2026 --> config, readproperties, html report environment, logger
 # 28th logger, excel, rerun failure, markers, dependency, order
@@ -179,12 +231,13 @@ class Test_User_Profile :
 # pip install pytest-dependency to create dependency in testcases.
 # pip install pytest-order
 
-# 29th jan 2026
-# allure report - 15 mints
-# jenkins  - installation 30 mints
-# git  - installation 30 mints
+# (29th jan 2026-) 30th jan 2026
+# allure report - 15 mints --done
+# Jenkins  - installation 30 mints
+# git  - installation 30 mints --done
 
-# 30th Jan 2026--> orange hrm
+
+# 30th Jan 2026--> Orange HRM
 # 6 am to 9 am
 
 # 1st Feb --> Hr session
@@ -193,4 +246,4 @@ class Test_User_Profile :
 # ETL Revision --> After 8th feb
 
 
-# Batch#23-->
+# HR log 3 lpa --> offer letter 10 lpa
